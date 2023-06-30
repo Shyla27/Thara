@@ -1,0 +1,2104 @@
+<resources>
+    <string name="app_name">IbukuRiaMahoya</string>
+    <string name="data">"Thaburi ya mūthenya no iinwo kana yugwo na njira ya gūcokanīria; o ŭndū ũmwe na nyĩmbo iria irutītwo icunji-ini cia maandīko matheru (canticles).",
+    "Nĩ harī ciugo heane cia kwanīrīra ũrekeri wa mehia ona ningi  kĩrathimo kĩa mũico, iria mūtongoria angīhūthĩra rīria Mūtungatīri atarī hakuh ",
+   " Hĩndi ya Mihothi, no ŭkorwo ūrī ündū wa bata mūno korwo műtongoria no aambage kūheana ciugo cikonii kūheana na ūtaana nĩ ũndũ wa wira wa Ngai, na ũndũ wa gūthoma  maandīko maringaine na ūhoro ūcio; ciugo ta iria ciumnite Malaki 3:10; 2Akorinitho 8:2,9; 9:8-10; na ingī nyingi.",
+   " Rwimbo no rũinīrwo harīa hothe műtongoria angīona hagīrīire.",
+    "Ciugo cia gūcokanīrio nĩ andū othe ciandīkītwo na rangi  mũmata. "
+
+
+</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="colors"> /* CSV */
+d9915b,110d0d,724e3b,604334,bc5a36,fbc96e,dc591f,ab8966,544c3b
+
+/* Array */
+["d9915b","110d0d","724e3b","604334","bc5a36","fbc96e","dc591f","ab8966","544c3b"]</string>
+
+    <string name="Title1">GÜTHATHAIYA NGAI KWA RŪCINĪ</string>
+    <string name="Title2"> GŨTAARĪRIA  \u0020
+</string>
+
+    <string name="title3"> MUTARATARA WA IGONGONA</string>
+    <string name="item1"> 1 Atongoria makiingira, andù othe marügame. Rwimbo
+wanirirwo, na andū maarikia küina maikare o marüngü, nake
+mutongoria wa igongona anyite andü ügeni na ciugo ici
+</string>
+
+    <string name="Lead1">Mütongoria: Mwathani aroikara na inyui; </string>
+    <string name="response1">Gücokia: Na aikare na ngoro yaku </string>
+    <string name="Lead2">
+Mütongoria:
+Andū a Ngai tũũnganīte haha ūmūthĩ tūcokanīrīirio nĩ Roho wake, tükīririria kūigua kiugo
+gīake na tūgooce Rīftwa Ritheru ria Mwathani.
+OfNingi-rĩ, tũnyitanire ühoro wa wega na riri we, ona tühoe nī ũndū wa mabataro maitü na
+mathīna ma thĩ yothe.
+Rekei tügicanjamuke tüiyurituo ni wendo wake
+na twiharirie gutùmwo na thayù wake. \u0020
+\u0020
+
+
+
+    </string>
+
+    <string name="lead"> Mütongoria: Türi agai a ütonga wa Ithe witü:</string>
+
+
+    <string name="response2"> Gucokia: Ii, türi agai hamwe na Muriu </string>
+    <string name="Lead3">
+    Mütongoria: Nĩ ùndù wa kwerùhio thini wa roho:</string>
+    <string name="response3"> Gucokia: Ni tütuikite ümwe. </string>
+
+    <string name="Title4">   TUCUNJI TWA GUTHOMWO</string>
+    <string name="churchreads">  Mütongoria athoome GACUNJI KAMWE kana twiri ga tutu twandikitwo haha muhuro, acooke oige.Hindi îria mùndù nwaganu aatiga wagau wake uria eekite, agacooka ageeka maündù maria magiriire na maria ma üthingu, ni akahonokia muoyo wake atüme ituire. (Ezekieli 18:27).
+    Tembürangai ngoro cianyu, na mùtigatembürange o nguo cianyu ciiki, mücokerere Jehova Ngai wanyu; ni ùndù we ni mwega, na ningī ni wa tha na ndahiühaga kùrakara, no niaiyüirwo ni ütugi, na nĩericůukagwo agatiga gwika andu uuru Joeli 2:13).
+    Ikaraga ügiikaga maŭndū marĩa makenagia Ngai, nake ni arikuhingagiria üria ngoro yaku iiriragiria. (Thaburi 37:3-4)
+    Ii, kat ütugi waku Ngai nĩ kindů kiri bata-i! Ciana cia kirindi igakigiritagia kigunyi-ini kia mathagu maku. Irihünagio unoru wa nyumba yaku, ihuünage o wega: na rũữi rwaku rwa ikeno niruo uritümaga inyuire, wee rĩ, niwe githima kia muoyo, tümürikagirwo ni ütheri waku. (Thabiuri 36:7-9).
+    Roho wakwa wi na miito mũno, ĩ-ni, ona ükoorwo ni hinye,kwiririria nja cia Jehova. Ngoro yakwa ona mwiri nigukünguira iraküngüira Ngai ürfa Mütüira Muoyo. (Thaburi 84:2)
+    Ii Ngai, wee niwe Ngai walkwa, ngurooka gükümaatha na kiyo; ni künyoota ngoro yakwa ikünyoteire, na ni ündi waku ri mwiri ulkaigua miito, ndi bürüri üyü müümu na Wi minoga ütari maai. (Thaburi 63:)
+    Nüü ingi ndi nake küu igürü? türi nawe ri, güku thio nakuo gütiri kindü iingiririria. (Thaburi 73:25).
+    Withambei mwitherie, mügīthengie  wa ciiko cianyu ndige küwona; tiganai na ủuru, mnwirute gwikaga wega.(Isaia 1:16-17a)
+
+    Ukai twambate kirima-int kia Jehova, tüthi nyumba ya Ngai wa Jakubu, nīguo agatürute üria ekwenda twiīkage nigetha tuthiage na njíra ciake, nĩ gükorwo ürutani wa Mwathanı uumaga zayuni, na Mwathani aaragiria andū ūhoro wake ari Jerusalemu. (Isaia 2:3)
+    Na nĩ gũgakinya atirī, atī ona mbere matananjita-ri. ningamacokería ühoro; ningi o makiaragia-ri. ningakorwo njiguïte ũria ümabatíi. (Isaia 65:24).
+    No rĩri, mündū ūrīa üngenagia ri, nĩ mũndū üria winyihagia na wiririte, o ürīa ündifte na ünjathikagira. (Lsaia 66.2b).
+    Atiriri wee mündū üyü, githi Jehova ndakuonetie maündü maria mega? Naguo ündů üria agwathaga wike ri, ni üriku tiga o wikage maũndū maria magiriire, na ningi ati wendage ühoro wa küiguanira tha, ona üthiage na mithiire ya kwinyihīria Ngai wigwatanītie nake. (Mika 6 8)
+    Mütigecirie ati njūkiite künina watho wa Musa kana ürutani wa anabii. Ndiūkīte gücinina no njükite gücihingia. (Mathayo 5:17)
+    Gükena-rí, nĩ inyui athini ni gükorwo üthamakı wa Ngai ni wanyu. Gükena-ri, nĩ inyui mühütaga riu ni gükorwo ni mügacoka kühünio. Gükena-ri, ni inyui müriraga riu: ni gükorwo ni mügacoka güthcka. Ciükena-ri, ni inyul riria andū makamümena: ni gükorwo igai rianyu ni inene küu igürů. (Luka 6:2022)
+    Kwi hingo irooka, ona riu no nginyu, aria ahot küna makahoyaga Ithe witù na roho na mamuhoyage na ma, amu ni ta acio Ithe witù acaragia matuike a kümühoyaga. Ngai ni roho, nao aria mamûhoyaga no mahoyage na roho na mahoyage na ma. (Johana 423-24)
+    Ngümwira na ma, ati ni gügakorwo gikeno kinene matu-ini ni ündù wa mwihia ùmwe wiririte, kuri andũ mirongo kenda na kenda athingu na matari na bata wa kwirira (Luka 15:7)
+    "Ni ngūũkira thii kũri Awa ngamüire atiri,Awa, ni hititie igürů na ngakūhitiria, na ndiagiriire gwitagwo mürüguo ringi. (Luka 15: 18) </string>
+
+    <string name="Lead4">
+  Mütongoria: Tüngiuga tùtiri na mehia ni kwihenia
+tùkwihenia na ühoro wa ma ndüri thiini witü
+No tüngiumbüra mehia maitü tüherete na ma
+na tũmwihokete,Ngai nĩ mwihokeku na ni
+müthingu na niegütùrckera mehia maitů, Ni
+ündū ūcio rekei tumbürire Ngai mehia macio
+maitü twinyihitie
+Rekei tüikare thỉ tumbürire Ngai mehia
+macio maitů twinyihitie tùknaga; "Nduiri
+(kana o wimbo
+ngoro yakwa thiini..
+rùngi re kwirira)</string>
+
+    <string name="response4">
+Andü othe: Ithe witù wa tene na tene, üûmbi waku
+wothe ni üinainaga ni ùndù wa hinya waku
+münene; no ni ûndù wa Mürüguo Jesü
+Kristů ni tühotaga güthengerera giti gīaku
+kia ünene. Mwathani, ni tühititie na
+tükaaga kürümirira njira ya ma. Ngoro
+ciitů ni nditühire müno ni mürigo wa
+mehia. Mwathani tüiguire tha ni twahera,
+na ndügatütarire mehia maitů. Tüiyũrie
+thayũ na gīkeno gia kürekerwo mehia, na
+ütühūthirie üritũ wa ngoro ciitű na ũndū
+wa ükengi wa Kristů, ücio wakuire na
+akiriūka ni ündū witů. Ameni. </string>
+
+
+    <string name="italic"> Mütongoria aanirire ühoro wa kürekerwo mehia:</string>
+    <string name="vicar1">
+        Mügathithi: Ngai ũria Ithe wa Mwathani witū Jesŭ
+Kristū, nī akenagio nĩ mwihia wīririīte, na
+akamürekera, ningī akamwamūkīra na
+akariganirwo nī mehia make mothe. Kiraniro
+kīa Mwathani nĩ atī; nĩ atuoheire, arīa
+maakuīte nĩ mariūkīte, na arīa moorīte ni
+moonckete. Naguo Wega na Utugi wake
+igütüüra irūmanīrīire na inyuĩ matukũ mothe
+ma mioyo yanyu, na mūgũtũũra nyūmba-ini
+ya Jehova matukũ matarī mūthiia. Ameni.
+    </string>
+    <string name="layleader"> Riria Mügathithi atarĩ kuo, mũtongoria ahoe na ciugo ici:</string>
+    <string name="item5">
+Mwathani-mūigua tha, twahoya ūtūkirire
+mehia na ūtūiyūrie thayũ waku, niguo tuhote
+gugutungatira wega gūtári na mehia matuohete
+ngoro. Nĩ ũndũ wa Jesū Kristū Mwathani
+witū. Ameni.
+Ügooci ūyũ no uguo mahinda mangi mothe
+tiga hindī ya Epiphany na Christmas.</string>
+    <string name="Lead5">
+Mūtongoria: Kūrathimwo ni andū aria othe matūüraga
+nyūmba-inī yaku!
+    </string>
+
+    <string name="response5">
+         Gücokia:Magatūūra mainaga ūhoro wa ngumo yaku!
+    </string>
+
+    <string name="Lead6">
+        Mütongoria: Goocai Mwathani!
+</string>
+
+    <string name="response6">
+
+ Gucokia: Rīitwa rĩa Mwathani rīrogoocwo.
+    </string>
+
+    <string name="Lead7">
+        Mütongoria Goocai Mwathani!
+</string>
+
+    <string name="response7">
+
+
+    </string>
+
+    <string name="Andũothemarūgame">  Andũ othe marūgame:</string>
+
+    <string name="Lead8">
+          Mütongoria: Kūgoocwo kūrogīa kwi Ngai Ithe ūrĩa
+    kīambirĩria kīa maūndū mothe.
+</string>
+
+    <string name="response8">Andū: Kūgoocwo kūrogīa kwĩ Ngai Mūriű ürĩa
+    watuikire Műrű wa mūndũ, kűgoocwo
+    kūrogīa kwĩ Ngai Roho Mūtheru , ürīa
+    werűhagia na agekirana hinya,
+    Gücokia:
+    Mwathani Ngai witű tene na tene!
+    Halleluya!
+
+    </string>
+
+    <string name="item7"> 7 Gatagatỉ ga Krismasi (Christmas) na mũthenya wa
+kiumia wa (Epiphany) "Ebibani-kūguiũranirio kwa Mwathani Jesũ kürĩ andũ aria matari Ayahudi " na gatagati ka
+mũthenya wa Küriüka na müthenya wa kiunia wa Güüka
+Kwa Roho Mūtheru (Pentecost) Gloria, kana "ügooci " no
+kuugūo na njĩra ĩno i haha handū ha kühūthira muugire
+ũcio wĩ hau igürü:</string>
+
+
+    <string name="Lead9">
+    Mütongoria: Mūrũ wa Ngai ūrīa wĩ igūrũ mũno,
+
+</string>
+    <string name="response9">
+          Nitūciarīirwo we nĩ nyina Mariamu.
+
+</string>
+
+    <string name="Lead10">
+  Mütongoria: Mũnene wa Thayū, ūria ūtaarī gikaro gūkū
+    thĩ,
+</string>
+
+
+    <string name="Lead11">
+Mùtongoria: Mwathani ūrīa Mūthamaki wa Muoyo na
+    Gikuŭ,
+</string>
+
+    <string name="response10">
+ Gücokia: Üria woragirwo, na agīkomio mbĩrīrainī.
+</string>
+    <string name="response11">
+Gücokia: Nĩ atooretie mahinda mothe na akahoota
+    nduma.
+</string>
+
+    <string name="item8">
+
+
+8 RWIMBO RWA JUBILATI (Thaburi 100, VENITE
+(Thaburi 95) KANA RWIMBO RWA HABAKUKU
+rwimbo rwa jubilati (rwimbo rwa gīkeno) thaburi 100
+Jubilati no iünwo na njữra nyingī iria andü mangîthuura;
+ta ürīa yandikītwo thĩnī wa Nyĩmbo Cia Gücanjamũra
+Ngoro (NCGN) namba 5 (Inagīrai Mwathani) kana
+namba 3 (Anīrīrai Rītwa rīa gai) kana ta ūữ:
+</string>
+
+    <string name="item8.1">
+        1. Ningüingira ihingo-ini ciake na ngatho Nyingire ndi na ügooci:
+ Ngiugaga müthenya ûyû îüheanitwo ni Jehova, Njanjamake tondů niangenetie.
+Niangenetie, Niangenetie, Njanjamůke tondů niangenetie…
+ Niangenetie, Niangenetie, Njanjamüke tondü niangenetie. (Thaburi 100:4)
+    </string>
+
+    <string name="Venite"> VENITE, EXULTEMUS DOMINO (RWĪMBO RWA
+üHOTAND THABURI 95 </string>
+
+    <string name="psalmssong">
+        Ükani, tüinire Jehova, tükenete;
+Tüanirire Ihiga rīa gūtühonokia.
+Nitūthīi türūgame mbere ya Jehova, tūmūgathe:
+tũmwanirire na thaburi tūkenete.
+Nĩ ũndū Jehova niwe Ngai mũnene:; na nīwe Mūthamak
+mũnene gūkīra Ngai ciothe.
+Cianda ciothe ii moko-inī make: o naguo hinya wa irima
+ni wake.
+Iria rinene nī rīake, na nĩwe warīũmbire: moko make
+nīmo mombire thĩ ĩno.
+Ükani, tümūhoe tūmūinamirīre: na tūturīrie ndu Jehova
+Niũndū niwe Ngai witū: na ithuĩ tũrĩ andũ a rũru rũake,
+na tūrī mbūri cia guoko gwake.
+Mūtüümbi.
+Ümūthi mūngīigua műgambo wake, tigai kũũmia ngoro
+cianyu: o ta ūria mwekire kũu Meriba, o na kũu Masa
+Hindi iria maithe manyu mangeririe: ningīĩ makinduiria
+werū-inĩ.
+na makĩona wira wakwa.
+Ngiigua ūūru nĩ ũndũ wa rūciaro rũrũ mĩaka mirongo
+ina, ngīkiuga: aya nĩ andũ mahītagia ngoro-inī ciao,
+na matiúï njĩra ciakwa.
+Nĩ ũndữũ ücio ngīĩhīta, ndakarīte, ngiuga: matigatonya
+kihurūko-iní giakwa.
+Ithe witū arogo0cwo ona Mũriũ, ona Roho Mūtheru;
+O ta ūrĩa gwatarii kīambirīria, na ũrĩa gūtariī rĩu,
+na ūria gūgatuika hingo ciothe; Tene na tene,
+Ameni.
+
+    </string>
+
+    <string name="habakukssong">
+        RWIMBO RWA HABAKUKU (Habakuku 3:17-18
+kügerekanio)
+
+    </string>
+    <string name="habakuku">
+
+
+ Ona irio cia migũnda ingīhootwo nĩ riūa itarī irakūra, kana twage gwa kwendia magetha maitű,
+        Ona kīmera kĩngīthūūkio ni mbaa na heho, na mĩgūnda yaage irio,
+        Ona ciugũ ingīaga mahiű,. kana mahiũ maage gütherema, na kűgĩe mũthiro wa indo cia thakame;
+        Niĩ no ndīrīgath aga Jehova Ngai wakwa; Ngenagīre Ngai wa űhonokio wakwa.
+
+
+Kűgoocwo kūrogīa kũri Ngai Ithe, Ngai Mũriũ, na Ngai Roho Mūtheru: Ota ūrīa gwatariĩ kīambĩriria. na ürīa gūtariï rīu,
+na ūrĩa gūgatuīka hingo ciothe, tene na tene.
+Ameni.
+
+    </string>
+
+    <string name="item9">
+
+9 THABURI YA MÜTHENYA, ünwo kana ithomwo na njīra
+ya gücokaniria. Thutha wa Thaburi ciugo ici ciugūo:
+Mütongoria: Ithe witũ arogoocwo, na Müriū, o na Roho
+    </string>
+
+    <string name="lead12">Mutongoria:
+ Ithe witũ arogoocwo, na Müriū, o na Roho
+Mūtheru
+    </string>
+    <string name="response12">
+Andu: O ta űrīa gwatariĩ kīambīriria, na ũrĩa
+gūtarie rĩu, na ũrīa gügatuika hingo ciothe, tene na tene. Ameni.
+
+    </string>
+
+
+    <string name="item10">
+        10 1THOMO RĪA MBERE kuuna Kīrīkaniro kīrĩa Gikürū:
+    </string>
+
+    <string name="lead13">Müthomi: Ithomo ria mbere kuuma Kirikanīro kĩria Gikūrū riumīte ibuku-inī rīa, můrango wa…, tũkiambīriria gūthoma mühari wa…
+    </string>
+    <string name="readings">   Thutha wa ithomo müthoomi oige: Gikĩ nikĩo Kiugo kĩa
+    Mwathani;</string>
+
+    <string name="response13"> Andu Nĩ ngatho kūrī Ngai.</string>
+
+    <string name="item11">
+        11 RWIMBO RWA MEŞIA, RWĨMBO RWA ZAKARIA, KANA
+RWIMBO RWA PAÜLO
+RWIMBO RWA MESLA
+(Kiambirîiria 12:3, Gücok. Maathani 18: 15-22, 2 Samueli
+7:12-17, Isaia 53:4, Danieli 7:13-22)
+
+    </string>
+
+    <string name="song2">
+        Jesū thuuna ya Iburahimu Nĩ arathimaga ndüriri:
+         Jesū műnabii ūtarii ta Musa iohorithagia arīa ahinyīrīrie:
+        Jesű Mwathani wa mūthamaki Daudi Niwe wītongoragĩria andũ aake:
+         Jesū ndungata ya Mwathani Athĩnagio na akahonokania:
+         Jesű Mũrű wa Mũndũ Oragirwo na akiriűkio.
+
+
+Kūgoocwo kūrogīa kūri Ngai Ithe, Ngai Mūriű, na
+Ngai Roho Műtheru:
+Ota ürīa gwatariĩ kĩambirĩria, na ūrĩa gűtariĩ rĩu, na
+ürĩa gūgatuika hingo ciothe, tene na tene. Ameni.
+    </string>
+
+    <string name="zakariasongtitle">
+RWĨMBO RWA ZAKARIA (Benedictus: Luka 1:68-79)
+    </string>
+    <string name="zakariasong">
+Mwathani Ngai wa Isiraeli arokumio: Tondű nĩ okīte kūrora andū aake akamakūüra.
+ Agatwambararīria rűhĩa rwa kūhonokania: Ruumite nyūmba-inī ya Daudi ndungata yake.
+ Ota ũrĩa anoiga na tũnua twa anabii aake atheru kuuma o kīambīriria: Ati nīagatūhonokia kūrī thũ ciitũ, na kūrī arĩa matūmenaga.
+ Nĩ eranfire atī nī akaiguira maithe maitü tha; Na ati aririkane kīrīkanīro giake gītheru.
+ Üyũ nīguo mwīhitwa ürīa ehītiire Iburahimu ithe witü; Ati nĩ agatuohorithia kuuma kürī thũ ciitü.
+ Tũmūthathayagie tűtarĩ na guoya Türi athingu na ehokeku mbere yake matukū maitū mothe.
+O nawe mwana wakwa, ügetagwo mũnabii wa üria-wiigūrű-mũno;
+Nĩ gükorwo nī ügathii mbere ya Mwathani,
+ükamūthondekagire njira ciake.
+Utūme andű aake mamenye ühoro wa kūhonokania gwake, na ũndũ wa kũrekerwo mehia mao mothe.
+ Nĩ ũndū wa tha iria cia Ngai witū;
+Ürĩa witagwo Gükia-kuumite-Igūrű nĩ agoka gūtűcerera;
+        Aarīre arīa matūire nduma-inī na kĩruru-inĩ gĩa gīkuu;
+na arūngīrīrie magūrũ maitū njīra-inī ya thayü.
+        Kügoocwo kűrogia kűrí Ngai Ithe, Ngai Müriű, na
+Ngai Roho Műtheru:
+Ota üria gwatariï kiambiriria. na üria gütarii riu.
+na uria gügatuíka hingo ciothe, tene na tene.
+Ameni.
+
+    </string>
+
+    <string name="paulsongtitle">
+RWIMBO RWA PAỮLO (Akolosai 1:15-18)
+
+    </string>
+
+    <string name="paulsong">
+1 Wee nĩwe miühianīre wa űria Ngai atari,
+Irigithathi rĩa ūűmbi wa Ngai wothe.
+        Na űndű waku wee Kristű. indo ciothe nī ciombirwo; Iria iri igūrű na thĩ, iria cionekaga na iria itoonekaga.
+Iti cia űnene, wathani, mothamaki ona maahinya: Ciothe ciombirwo na ündű waku na nī ündü waku.
+        Nawe waarī o kuo mbere ya indo ciothe; Ningī nĩwe ünyitithanagia indo ciothe hamwe.
+Wee nĩwe műtwe wa mwiri waku - niguo Kanitha;
+Na nīwe kiambiriria, irigithathi ria aria moimite
+gīkuű-inī; nīguo maündů-ini mothe ütuike nowe
+wa mbere.
+
+Kügoocwo kürogia küri Ngai Ithe, Ngai Müriü, na
+Ngai Roho Mütheru:
+Ota üria gwataril kiambiriria, na üría gütarii riu,
+na ürīa gugatuika hingo ciothe, tene na tene.
+Ameni.
+
+    </string>
+
+
+    <string name="Readings">
+12. ITHOMO RĪA KEERİ kuuma Kirikaniro Kierü.
+    </string>
+    <string name="lead14">
+Müthomi:
+Ithomo ria keeri kuuma Kirikaniro kiria
+Kierü riumite ibuku-ini ria .. mürango
+wa.... tūkiambiriria gūthoma mühari wa
+    </string>
+    <string name="inst">
+Thutha wa ithomo müthoomi oige:
+    </string>
+    <string name="lead15">
+Giki nikio Kiugo kia Mwathani:
+    </string>
+
+    <string name="response14">
+Andü:Nĩ ngatho küri Ngai.
+    </string>
+    <string name="item13">
+13. RWĨMBO RWA JĘS0, RWÌMBO RWA KANITHA. KANA
+RWÌMBO RWA KOGUÜRİRIO.
+RWÌMBO RWA JESO (Luka 6:27-28: Mathayo 25.35-36:
+Luka 7:22-23; Luka 10:21.)
+
+    </string>
+    <string name="item13info">
+ Endagai thũ cianyu,
+Ikagai wega arīa mnamüthüire.
+        Rathimagai arĩa mamürumaga,
+Na mühoyagire aria mamwikaga maűndű moru.
+
+        Nỉ gũkorwo ndaari mühuütu mũkhe gīa-kūrīa;
+Ningi ndaarī mūnyotu mükīhe gīa-kũnyua.
+
+        Ndaari můgendi na mükīndarīriria kwanyu;
+Ndaari njaga, na mūkīhumnba nguo.
+        Ndaarỉ mũrũaru, na mügīũka kūndora;
+Ndaarī muohe njeera, na mügiüka kūnyona.
+        Atumumu nī macokete kuona;
+Ithua nĩ icokete gwitwara, na arīa marī na mangũ
+makahonio.
+
+        Itaigua nĩ icookete kūigua, nao akuű makariūkio,
+Athini nĩ mahunjiirio ūhoro ürīa mwega,
+Na kūrathimwo nī aria matekūhingithio nĩ ündū
+wakwa.
+
+        Kūgoocwo kűrogīa kũrī Ngai Ithe, Mwathani wa
+igūrű na thĩ: Kūgoocwo kũrogīa kūrī Mūriũ, ürĩa
+mūhe indo ciothe: Kūgoocwo kūrogīa kūri Roho
+Mūtheru, ũrīa ūkenagia Mūriŭ, rĩu na nginya tene
+na tene. Ameni.
+
+    </string>
+
+    <string name="tedeumlaudamus">
+Te Deum Laudamus (RWIMBO RWA KANITHA)
+    </string>
+    <string name="tedeum">
+
+        Nītügükūgoca Ngai: na tūgwītikira ati We wi Mwathani
+witũ.
+Thĩ ino yothe niīgūkūgooca: We Ithe witũ wa tene na
+tene.
+Araika othe nīmegūkwanirĩra: narīo Igūrű, o na
+Mahinya mothe marīa marí ku0.
+Akerubi na Atherabi: nimakwanagĩrīra hindi ciothe,
+makiugaga,
+Mūtheru, Műtheru, Mütheru: Jehova Ngai Mũnene Wa
+Ita;
+Igūrű na thỉ kũiyūrīte Ünene: wa Ngumo yaku.
+Gikundi kīrīa gīkumitio gīa Atümwo: nigīgūkūgooca.
+Thiritū irīa njega ya anabii: nīigūkūgo0ca.
+Mbūtű njega ya aira atheru: niĩgūkūgooca.
+Kanitha Mütheru ürīa wĩ thĩ yothe: niűgūgwitīkira;
+Ithe witū: wa Unene ūtangīgereka ;
+Na Mũrűguo ŭria műtĩe, na wa ma: ningi üria Wa
+mũmwe;
+O nake Roho Mütheru: Üria Műhorerania.
+We, wĩ Műthamaki wa Ünene: We, Kristo.
+We niwe Mūrũ wa Ithe witü: na wĩ wa tene na tene.
+Rīrīa wetīkīrire gūkūűra ciana cia Adamnu:
+ndwamenire nda ya Mũiritu ūcio.
+Rīrīa watoririe ruo rűa gīkuű : nĩwahingūrīire üthamaki
+wa Igūrũ arīa othe metikitie.
+We ūikarīte guoko-inī kwa ürio kwa Ngai: Unene-inī wa
+Ithe witũ.
+Nĩtūgwītīkia atī nīügoka: gūtuika Mūcirithania.
+Nĩ ũndū űcio nītügűgūthaitha, ütűteithie ithuĩ ndungata ciaku: iria wakūrire na thakame yaku ya bata.
+Na űtūme tűtaranīrio na andű aku aamūre: üneneiní ürīa wa tene na tene.
+Mwathani, gitīra andū aku: na ürathime ciana ciaku
+nyaműre.
+Üciathe: na űcitūgĩrie tene na tene,
+Mĩthenya yothe: nītūrīkūgathaga;
+Na nītūrīgocaga Rītwa rīaku: tene na tene.
+Itikira, Mwathani: gütüikaria ūmüthi tütikehie,
+Mwathani, tüiguire tha: tūiguire tha.
+Mwathani, ūtūme tha ciaku ciikūrūke ciūmbe igürű
+riitű: o a ūrīa tūkwīhokete We.
+Mwathani, nĩngwīhokete We: ügirie ngathīnio o na ri.</string>
+
+
+    <string name="rwimborwakuguuririo">
+RWÌMBO RWA KÜGUỮRĪRIO
+(Küguürīrio 19:6-8,4:11, 5:9-10. 15:3-4, 5:13)
+    </string>
+
+    <string name="rwimborwakuguuririoinfo">
+         Halleluya! Mwathani Ngai witü Mwene-Hinya-wothe
+niwe Mūthamaki;
+Nītūkenei, tūcanjamüke na tũmühe ügooci.
+        Mwathani Ngai witü nowe wagīrire,
+Nĩ ũndū nĩwe wombire indo ciothe.
+
+        Gatūrűme nowe wagīrire, o ücio wathinjirwo,
+Nīgūkorwo nīwe watügūrire na thakame yake
+agītűtua ciana cia Ngai
+Kuuma mĩhīrīga yothe, thiomi, ndūrīri na mabürüri.
+
+        Mawīko maku nĩ manene na ma magegania. We Mwathani Ngai münene witü: Niĩra ciaku wee Müthanaki wa tene, nĩ cia ma na ni cia kĩhooto.
+
+        Nãü Gtangītigira na agooce RTitwa riaku Mwathani Nigükorwo wee wiki nowe mütheru.
+
+        Ndüriri ciothe igookaga güthathaiva o mbere yaku:Nĩ gűkorwo mawiko malku ma kihooto ni mamenyekete.
+        Küri ücio üikaragīra gitī kīa ûnene. na küri Gatürüme, kürogia kirathimo. gitio, ügooci ona ühoti, tene na tene. Ameni
+    </string>
+
+    <string name="item14">
+        14 WITĪKIO WA ATỦMWO
+    </string>
+
+    <string name="lead16"> Mutongoria: Rekei tùrùngii o üguo tunyitanire na Akristiano
+a thỉ yothe na aria mathite mbere iitu, tumbure
+mohoro maria twittkitie na ciügo ca Witikio
+Wa Atümwo</string>
+
+    <string name="response15">
+        Ni njitikitie Ngai Ithe Mwene-Hinya wothe,
+Müümbi wa igürü na thi.
+Na ngetikia Jesū Kristü Mürü wake wa mümwe,
+Mwathani witů, waciarwo ni müiritu wetagwo
+Mariamu, wagīire ihu ni ündü wa Roho
+Mütheru,
+Akinyarirwo hindi va Pontio Pilatü, Akiambwo
+müti igūrů, agīkua,
+Agithikwo, agiikürüka kwa aria akuü, Müthenya
+wa gatatù akiriüka, akiuma küri akuũ akihaica
+igürů,
+na riu aikaire guoko-ini kwa ürio kwa Ngai, Ithe
+Mwene-Hinya-wothe,
+Nĩ akoima küu oke güků . acirithie aria me
+muoyo na aria makuite.
+Na ningi ninjitikitie Roho Mütheru,
+Naguo Kanitha Mütheru wa thi yothe, naguo
+üiguano wa andū aria atheru, nakuo kwoherwo
+kwa mehia, nakuo kūriűka kwa mwiri, nagu0
+muoyo ütagathira, Ameni.
+    </string>
+    <string name="lead17">
+    Mütongoria: Rekei tühoe.
+</string>
+
+    <string name="lead18">
+        Andũ maturie ndu kana maikare thi na moige kana maine
+    </string>
+    <string name="response16">
+Hoyai na nĩ mũkūheo,
+Mathai nĩ műkuona,
+Ringa ringai na nĩ műkühingürirwo.
+Allelu, alleluya.
+    </string>
+
+    <string name="lead19">
+         Mūtongoria: O ta üriĩa Mühonokia witü Jesü atūrutire, rekei tūhoe na ümiriru tuuge:
+
+    </string>
+    <string name="lordsprayer">
+        Ithe witũ wĩ igűrũ,
+Riitwa rĩaku ni rīamūrwo,
+Uthamaki waku üüke. O ria wendete wee
+Nĩ wikagwo gūkū thĩ
+ota űrīa wīkagwo kūu igūrũ.
+Tūhe ūmüthĩ irio ciitū cia gütüigana, na ütuohere mehia maitū,
+ota ürīa ithui tuohagīra arīa matwīhagia.
+Ndūgatūtware magerio-inī,
+no kűhonokia űtühonokagie üüru-ini,
+nĩ ũndũ üthamaki nĩ waku,
+ona hinya, ona kügoocwo,
+tene na
+tene, Ameni.
+
+    </string>
+    <string name="lead20">
+Mütongoria: Mwathani aroikara na inyuĩ
+    </string>
+    <string name="response17">
+Gücokia: Na aikare na ngoro yaku.
+</string>
+    <string name="lead21">  Mütongoria:Mwathani onania tha ciaku kūrī ithui.
+    </string>
+    <string name="response18">
+Gücokia: Na ütühe űhonokio waku.
+    </string>
+    <string name="lead22">Mūtongoria: Mwathani tongoria President witū na atong0-
+ria othe
+    </string>
+    <string name="response19">
+    Gucokia: Na ūmaheage ūgī waku na kīhooto.
+    </string>
+    <string name="lead23">Mütongoria: Tüma atungatiri aku magūtungatagire na
+wihokeku;
+    </string>
+    <string name="response20">
+        Gücokia: Andű aaku nao magūtungatagīire makenete.
+    </string>
+    <string name="lead24"> Mütongoria: Riria tũngīkorwo tùri mūkuru-ini wi nduma
+ta ya gīkuữ;
+    </string>
+    <string name="response21">
+Gücokia: Tütongoragie na thiarī na mūthīīgi waku.
+    </string>
+    <string name="lead25">
+        Mütongoria: O ta miti ihanditwo rûtere-ini rwa rùùi;
+    </string>
+    <string name="response22">
+Gücokia: Tümaga tüciarage maciaro ma Roho.
+    </string>
+    <string name="lead26">
+        Mütongoria: Tütüme tüthii tühaana cumbi wa thĩ:
+    </string>
+    <string name="response23">
+Gucokia:Ona ningĩ ta ütheri wa thỉ.
+    </string>
+    <string name="lead27">
+        Mütongoria: Thỉ yothe iroiûrwo ni riri waku:
+    </string>
+    <string name="response24">
+Gücokia: Ota üria maai maiyüire iria-ini.
+    </string>
+
+    <string name="item18">18 IHOYA RĪA MỮTHENYA
+    </string>
+    <string name="item19">
+19 KŨHERA THAYỦ
+    </string>
+    <string name="item19.1">
+        Ngai Mwene-Hinya wothe na wa tene na tene, Ithe Wa
+Müthamaki wa thayű, Túgtcoka na tukihurüka nl Gtühonoka
+gia Riria twahorera na twakwihoka niirio tüglaga na hinya
+Tüma tütuike andű a kúmaathaga thayű, ningi tükenage
+tűgicaria kíhoto.
+Túnogore na ütwaűrc rmarla moothe matüritühlire ngoro-1nl
+ciitü, na ütüme mitűríre itú yumbúrage üthaka wa thayu
+        waku, nf ündű wa Jesű Kristu Mwathani witű. Ameni.</string>
+    <string name="item19.2">
+Ngai wee kíhumo pgla thayű ha wendaga andü maiguane,
+nawe tünikürmenya niwe üngitürna tuone nuoyo útagathira,
+ona ningÍ wira waku ndühanaine na wira wa ükombo ona
+hanini; tűgitíre ithuí ndungata ciaku twinyihitie o hindi iria
+tügütharikírwo ní thű cítű, Ni getha tükihoka kügitirwo nĩwe,
+tütigage gwitigíra hinya wa aría othe matüthüire, ni ündü wa
+hinya wa Jesú Kristű Mwathani witü, Ameni.
+
+    </string>
+    <string name="item20"> 20 KÜHOYA WEGA WA NGAI
+    </string>
+    <string name="item20.1">
+      Ngai Mwene-hinya-wothe, ni ütürangirite ütukü wothe,
+twahoya ota guo ütümenyerere müthenya üyű wothe, tüna
+tüthíf na njíra cia ütheri, ningi ütüme mithiire itü yumbürage
+üira waku, tükimaathaga ütharmaki vwaku mbere ya maündü
+maria mangi mothe, na tükionaga riri waku thiini wa mündű
+o Wothe.
+Tütongorie na ütüme magürü maitű mageragire harla ma
+Mürüguo Jesű magercire, na útütongoragic na njira ya muoye
+ütagathira.
+Nĩ ündü wa Jesü Mwathani witű, Amení.
+
+    </string>
+    <string name="item20.11">
+Mwathani Ithe witü wa igürű, Mwene hinya na mütüra
+muoyo, owe ütümite tüone kiambiriria kia müthenya üyű
+mwerű.
+Tütongorie na hinya waku münene, nīguo tütikagüc mehia-i
+kana tuone ügwatí ona ürikũ,
+Tütongorie maündű-ini maitü mothe na ütümc ati twikage o
+maündű maria magiriire maitho-inī maku. Ni ũndů wa Jesü
+Kristű Mwathani witü. Ameni.
+
+    </string>
+    <string name="kana">
+KANA
+    </string>
+    <string name="item21">
+        21 Mutongoria aheane Nyimbo na korasi cia mahoya angiona
+kwagiriire. Ihinda riri nỉ riega ria mahoya matari mandke
+nĩ ündũ wa kühoera maündi matiganite-maũndũ maria
+marahuta andã mũno mahinda maya, kühoya nĩ ũndũ wa
+bũrūri, Kanitha, mabürüri maria matùrigicirie, thĩ yothe. na
+mangi ta macio. Mahoya namwe ni mandike haha mũhuro
+na mangĩ no moneke gīcunji-ini kia müthia kia mbuku îno va
+mahoya, na no mahüthĩrwo ota üria küngībatarania.
+    </string>
+    <string name="item22">
+22 KÜHOYA NĨ ŨNDŨ WA BÜRŪRI
+    </string>
+
+    <string name="item22.1">
+        Ngai Mwene-Hinya-wothe, Wee üthamakagira ndūriri ciothe
+na ūgaciathaga kūringana na ürīa wonaga kwagīrīire:
+twakühoya ūtongorie President witū na arīa othe mateithanagia
+nake gūtongoria bürūri ūyū; nĩ getha hinya üria ümaheete
+maūhūthagīre hingo ciothenĩ ündū wa gütūüria thayū wa thi
+yothe, na nĩ ündũ wa gütūŭria gītio, ügaciru na ütheremu wa
+būrūri witū, nīguo kanitha waku wagīrire, nī ūndū wa Jesù
+Kristū Mwathani witū, Ameni.
+    </string>
+    <string name="item23"> 23 KÜHOYA NĨ ỞNDŨ WA KANITHA
+
+    </string>
+    <string name="item23.1">
+        Ngai Mwene-Hinya-wothe, we wiki kihumo kia ühoti,
+Itiriria abicobu aitū, atungatiri na andů othe a kanitha waku,
+hinya wa Roho waku Mütheru ni getha maikare wega; ningi
+ni getha magūkenagie ma, maitagiririe ime ria kirathimo
+gīaku. Tühe maündũ maya Mwathani: ni ündù wa
+mūtūcirīriri na mütūthaithaniriri Jesủ Kristů. Ameni.
+
+    </string>
+    <string name="item24">
+24 Gaaka nĩ kahinda keega ga gủkira ki
+mbere ya Ngai, mũndu
+ehoere. Thutha ûcio mũtongoria arikie na ihoya riri:
+    </string>
+
+    <string name="item24.1">
+        Tükirite ki mbere ya giti giaku gīa tha, hinya waku Ngai nūũ
+ûngiwitiririria; ngoro ciitů niirahiyahiya thĩinī witů, ni
+kūmenya ati Roho waku e hamwe na ithuĩ tügīgūthathaiya,
+nĩ küri andū tũraririkana meciria-ini maitü; ni
+twamambarariao ûmwe wao hari we: honia aria ao arüaru,
+riükia aria akuû ngoro-ini. cokeria hinva aria morītwo niguo,
+nao arīa me nduma-ini monie ütheri.
+Wee ûkuuaga moritù maitū mothe na njira ya mwanya, o
+ügatüma kūũrirwo gwitü kühingũre micke mierü,
+ügatūnogora, tükagia gīkeno na thayũ ūria thi ĩno itangīheana
+Amūkira ngatho, riri na ûgooci riu na hingo ciothe. Ameni.
+
+    </string>
+
+    <string name="item25">
+        25 IHOYA RĪA CHRYSOSTOM ÜRĪA WARĪ MŨNDŨ MÜTHERU
+    </string>
+    <string name="item25.1">
+        Ngai Mwene-Hinya-wothe, wee ūtūmīte nĩ ũndũ wa gūtühe
+wega waku tügūthaithe na ngoro îmwe hindỉ îno; na ning
+niweranīire atī hĩndi iria andi eeri kana atatū magomanite
+hamwe ni ũndũ wa Rīitwa rĩaku nĩ ūkamahe maūndũ maria
+makahoya. Tühingīrie rīu Mwathani, na ūtūhe ithuĩ ndungata
+Ciaku, maündū marīa tūkwenda na marīa tūkūhoya ota üria
+mangitwagirīra; na ūtũme tũmenye ühoro waku wa ma,
+matukūù maya tũri gūkũ thĩ. na tukoona muoyo ūtagathira,
+matukủ maria ma tene na tene. Ameni.
+
+    </string>
+    <string name="item26">
+26 Imenyithia
+    </string>
+
+    <string name="item27">27 Rwimbo
+    </string>
+    <string name="item28">
+28 Mahunjio
+    </string>
+    <string name="item29"> 29 HÌNDĪ YA MŨHOTHI
+    </string>
+    <string name="item29.1">
+        Mütongoria nỉ athome gacunji kamwe kana twirị twa tũtū:
+(Malaki 3:10)
+(2 Akorinitho 8:2, 9)
+(2 Akorinitho 9:8-10).
+Thutha ũcio rwĩmbo rūinwo, na hingo Îyo andũ makorwo
+makihotha. Thutha wa mihothi, mütongoria oige:
+
+    </string>
+    <string name="lead28">
+30 Mūtongoria: Indo ciothe njega ciumaga kũri we Ngai.
+    </string>
+    <string name="response25">
+Gücokia:Na ici twaheana nī imwe cia iria ütüheete.
+    </string>
+
+    <string name="item31">
+        31 KĪRATHIMO
+    </string>
+    <string name="item31.1">
+Rũrîa Mũgathithi atarī kuo, miñtongoria no arīkie igongona
+na Wega wa Mwathani.., kana na ciugo ingī ta ũria
+ciandikitwo gīcunji gia 32.
+    </string>
+
+    <string name="lead29">
+Mügathithi: Ngai ūrīa Ithe wa Mwathani witū Jesũ Kristū
+aromüiyũria na gīkeno na thayũ thĩinĩ wa
+wiikio wanyu, nīgetha atī na ũndũ wa hinya
+wa Roho Mūtheru wa Ngai, mūikarage
+mũiyurītwo nī kīirigīrīro.
+Nakio kīrathimo kīa Ngai Mwene-Hinyawothe, Ithe na Mũriũ na Roho Mūtheru, kĩroikara na inyuĩ na gītüūre na inyuĩ rīu na hingo
+ciothe. Ameni.
+
+    </string>
+    <string name="lead29.1">
+Mwathani aromūrathima na amūmenyerere;
+Mwathani aromūiguira tha na amūtanahĩre;
+Mwathani aromūcũthirĩria na wendo na amũhe thayü wake. (Ndari 6:24-26). Nakio kirathimo kĩa Ngai Mwene-Hinya-wothe. Ithe
+na Mũriũ na Roho Mūtheru, kīroikara na inyuĩ na
+gitüūre na inyuī rĩu na hingo ciothe. Ameni.
+    </string>
+    <string name="lead29.2">
+Rĩu. kũri ũrĩa wina ühoti wa gwika maũndũ manene
+matangithimika na makīrite ūrīa wothe tũhoyaga kana
+twiciragīiria, na ũndù wa hinya wake ūria ūrutaga wira
+thiini witũ, kũri ũcio kūrogia riri thĩini wa kanitha, na
+thiini wa Jesū Kristū, kūri njiarūa na njiarūa, tene na
+tene. Ameni! (Aefeso 3:20-21).
+Nakīo kirathimo kīa Ngai Mwene-Hinya Wothe, Ithe
+na Mũriũ na Roho Mūtheru, kiroikara na inyuĩ na
+gītūüre na inyuī rīu na hing0 ciothe. Ameni.
+    </string>
+    <string name="lead29.3">
+Thayũ wa Ngai ũria ūtangīmenyeka ūrīa ütarii, ūroikaria
+ngoro cianyu na meciria manyu nīgetha mūtūre
+mũmenyete Ngai ona mũmwendete: o nake Mūrũ wake
+Jesū Kristū Mwathani witū. (4filipi 4:7).
+Nakīo kĩrathimo kīa Ngai Mwene-Hinya-wothe, Ithe
+na Mũriũ na Roho Mūtheru, kīroikara na inyui na
+gituüre na inyuĩ rīu na hingo ciothe. Ameni.
+    </string>
+    <string name="lead29.4">
+Ihoya riri rĩa kũrathimithia. No rihüthirwo kūringana na kūndi o
+kūndi na kirĩa gikūraga kuo kana mahiŭ maria marîithagio kuo.
+No rīhoerwo nja ya kanitha rihana njĩra ya kũrīkia igongona.
+Mügathithi no ahoe atambữrūkītie guoko arorete na kùu
+migünda-ini na micii-ini.
+    </string>
+    <string name="lead29.4.1">
+Mwathani wa magetha arorathima irio irīa műkandīte:
+Mbembe na mboco,
+Mūcere na waru,
+Kahūa na macani;
+Mawira manyu namo mathereme:
+Ngai mũmbi wa indo ciothe arorathima mahiūũ manyu Ng\'ombe cianyu na ndigiri cianyu,
+Mbūri ona ng\'ondu cianyu,
+Ngũrwe ona ngükũ na iria ingĩ ciothe.
+Ngai wa muoyo arorathima mīcil yanyu na andü anyu
+othe:Athuri anyu na atumia anyu,
+Ciana cianyu cia airītu na cia aanake,
+Aariû a nyûkwa na aarī a nyükwa,
+Aa maitūguo na aathoguo.
+Ngai wa tha nyingī aroiguira tha:
+Andū anyu othe arīa makomete thibitarī na arīa
+marūarīire micii,
+Aria othe maracakaya nī gūtigwo nĩ endwa ao,
+Atumia othe a ndigwa, na athuuri a ndigwa
+Na ciana ciothe irīa ciūrĩirwo nī aciari.
+Nakīo kirathimo kīa Ngai Mwene-Hinya-wothe, Ithe
+na Mũriù na kĩa Ngai Roho Mūtheru, kiroikara na inyi
+na gītūữre na inyuĩ rĩu na hingo ciothe. Ameni.
+
+    </string>
+    <string name="lead30">
+        32 Mütongoria Rekei tũnyitanire hamwe na ciugo cia Wega:
+    </string>
+
+    <string name="response26">Wega wa Mwathani witü Jesū Kristü,
+Na wendo wa Ngai,
+na ngwatanīro ya Roho Mütheru,
+Iroikara na ithuĩ rĩu na tene na tene.
+Ameni.
+    </string>
+
+    <string name="lead30.1"> Mūtongoria: Na riu, Mwathani witü Jesū Kristū, na Ngai
+ithe witũ, ũrĩa watwendire na agītūhe ūhoreri
+wa tene na tene, na kĩrigiriro kīega na ũndũ wa
+wega wake mūingī, arotūiyūrĩriria ūhoreri ūcio
+na atūme tũikarage twïiguite wega ciiko-inī
+ciitũ ciothe njega, na mĩario-ini iitů yothe.
+Naguo:</string>
+
+
+    <string name="lead31">
+        33 RWÍMBO RWA KÜRĪKIA.
+    </string>
+    <string name="g_thathaiya_ngai_kwa_r_cini">GÜTHATHAIYA NGAI KWA RÜCINI</string>
+    <string name="title_activity_about">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="ngwatan_ro_theru">NGWATANÍRO THERU</string>
+    <string name="giathi"> (Giathi Kia Mwathani)</string>
+
+    <string name="object1">Andū arīa magīrīirūo kürña gĩathĩ kĩa mwathaní nĩ mũndū
+mūbatithie na akaigirirūo moko nĩ mũmbicobu wa Anglican.
+Angīkorūo mũndū nīoĩo wega atī mūtũrire wake nĩ mūūru
+na wa kwīhagia, kana ningī akorūo nĩ ahititie na ciugo kana
+ciiko,na ũndū ūcio ūgatūma ahitīrie andū a kanitha,
+Mūgathithi a amenya ūguo nĩ ete mūndū ūcio na acoke
+amūmenyithie atī ndarī hĩndĩ agīrīirūo nĩ gūūka Methainī ya
+Mwathani,o kinya rīrīa akoimbūra mbere ya andū atī nĩ
+aherete nama, ona ningī akaagīria mithiĩre īo miũru; nĩguo
+andū a kanitha maiganwo nī kühera kūu, na andū acio
+mahītīirio mbere ĩo; o na ningĩ akorūo athondekete ūhoro
+na arīa ahĩtīirīe.
+Mūgathithi angimenya andū erī,arīa gatagati-inī kao marī
+na üthü; nĩ amenyerere ndakametīkīrie magwatanīre
+metha ya Mwathani,o kinya amenye na ma atī nĩ macokete
+kūgīa rũmwe o erĩ. No ũmwe wa acio mahītanītie
+angīiganwo nĩ gūkirīra ūcio ūngĩ na maũndũ marīa ūcio
+ūngī amūhitirie, na ningĩ athondekete ühoro ũria we
+athūkītie;no ücio üngĩ magwataniire wihia areme kūgīa
+rũmwe na ũyũ üherete, no aikare arikīire na rūthũro ota
+mbere; gīcunji-ini gīkī Mūgathithi nĩ agīrīirūo nĩ gwĩtikīria
+mūndū ūyũ ūherete agwatanire Ngwatanīro Theru, no ūcio
+ūũmĩtie ngoro akaaga kũhera ndagetīkīrio.
+Mūgathithi angīrűgamia mūndū ona ũrīkũ nĩũndũ wa
+gīcunjĩ gikỉ kana kĩu kĩa mbere yakīo thĩinī wa tūhoro tūtũ
+tũigitwo twa mwanya,no mūhaka amenyithie Mübicobu
+mbere ya mĩthenya ikūmi na ĩna (14) itanathira. Nake
+mūmbicobu athiĩ na mbere gūtuira mũndū ūcio ühītītie
+küringana na Mawatho ma kanitha.
+Mūgathithi aheane nyĩmbo kana kwaya îine,harīa hagirirs
+Mūgathithi one atī mĩgate na ndibei cia kũigana nĩ
+cigīrfirwo metha-inĩ theru nīguo irathimwo ciothe rita o
+rimwe.
+Gīcunjĩ kia 27 (Ihoya rīa gūcokia ngatho) nĩ ihoya rimwe
+riothe. Andū maikare marűngiĩ nginya rĩrike, nĩ ũndũ wa
+kūonania ūrűmwe wao.
+Ngatho cia mahinda ma mwanya iria ingĩnyitithanio na
+gicunjĩ gia 27 mbere ya kuuga, "Nĩ ũndū úcio ithuỉ hamwe
+na araika..", nĩ ikuoneka thĩinī wa Njahirira (kana
+Appendix) îrĩa îrī thutha wa Igongona ria Giathi.
+Riria kūngīagīrīra, andū ngūrani no mahoe na mahoya
+matarī ibuku-in.
+Hindi ya kwinyerekia, ūgooci wa namba ithathatü (6)
+ühüthirūo guo wiki.
+    </string>
+
+    <string name="object1.1">Atongoria a igongona magitonya andū marügame. Rwimbo rwa kwambirîria rwanirirwo.
+Mügathithi athome gacunj? kamwe kana twiri twa tutu twi haha mühuro.
+    </string>
+    <string name="object1.12"> Akimaitürūrira mana ta mbura marie, ngano ya küu igüru rl,
+nīyo akimaheire. (Thaburi 78:24)
+No inyui nimūkagīa na rwīmbo rwa mūthemba üria
+ūinagw0 ütukū hindi iria kūgomanītwo ni ũndũ wa gīathĩ
+kīamüre ona můcanjamüke ngoroo ta mūndũ ūria ūthiaga
+akīhuhaga mùtürirů kīrima-ini kīa Jehova, owe Rüaro rwa
+Ihiga rwa Isiraeli. (Isaia 30:29)
+Hi! Nīki gitùmaga mũrutire mbia irio gütari? Ningī-ri, ni k
+gitūmaga mùnoge mūkirutira wira kindũ gitangīmůühūnia? Ta
+"thikiririai na kĩo ngĩmwira müriage kindũ kĩria kīega, na
+mūreke ngoro cianyu ciikenagie na nyama noru. (Isaia 55:2)
+Nake Jesũ akimera atiri: Nĩ nii Mūgate wa Muoyo; mündü
+üükīte kūri niĩ ndakahūta, na mũndũ wĩî hokete niī ndari hingo
+akaanyota. (Johana 6:35)
+Tondū ūcio-ri, nī tükiriage gīathĩ hatarī na ndawa iyo ya tene ya küimbia mūgate, iyo ningī ya ūūru na ya waganu. No nĩ
+tūkīrīage kīrī na mūgate üĩa ütarī mnũimbie, ūguo nĩ kuuga
+tūkīrīage tūtarī na ūhinga, na tũrĩ na ūhoro-ūrĩa-wa-ma. (1
+Akorinitho 5:8)
+Andū arĩa matongoragio nĩ Musa maatūire maarīaga irio o
+imwe othe iria cia kiĩroho, na makanyuaga gia-künyua o
+kimwe othe, o kīria gīa kiiroho, nĩ gūkorwo maanyuaga
+maaĩ moimīte ndũmba-inī ya ihiga yaarī ya kīiroho iria
+yarūmanagīrīra nao, nayo ndũmba ĩyo ya ihiga nī Kristū.
+(1Akorinitho 10:3-4)
+    </string>
+
+    <string name="topic1">MỮTHENYA WA KRISMASI
+    </string>
+    <string name="topic1info"> Nake nĩagaciara kahi, nako nĩūgagatua Jesū, ni ündũ nĩwe
+ükahonokia andū aake mehia-inī. (Mathayo 1:21)
+    </string>
+
+    <string name="topic2">MÜTHENYA WA KŨRIỮKA
+    </string>
+    <string name="topic2info"> Na gūgītuika atīrĩ, rĩrĩa aaikaire thĩ hamwe nao marīe irio,
+akīoya mūgate akīũrathima, akīwenyūra, akīmanengera.
+(Luka 24:30)
+    </string>
+    <string name="topic3">MŨTHENYA WA GŨŨKA KWA ROHO MỮTHERU
+    </string>
+    <string name="topic3info"> Nĩgūkorwo ithui twabatithirio ithuothe nĩ ũndũ wa Roho o
+ümwe tūtuike mwirĩo ũmwe, tũrĩ Ayahudi kana tũrĩ
+Ayunani, ona kana twĩ ngombo kana tūtarī ngombo, na
+ithuothe tūkīnyuithio Roho o ũmwe. (1 Akor. 12:13)</string>
+
+    <string name="object2">Mügathithi acoke atongorie na ciügo ici i mühuro.
+    </string>
+
+    <string name="pastor1"> Mügathithi: Mwathani aroikara na inyui.
+
+    </string>
+    <string name="people1">  Andũ:Na aikare nawe
+
+    </string>
+    <string name="pastor2"> Mügathithi: Thĩ nỉ ya Jehova ona kīrīa gīothe kiri kuo;
+
+    </string>
+    <string name="people2"> Andũ: Reke igūrũ gūkenwo nakuo thi kűrūūhio.
+
+    </string>
+
+    <string name="pastor3"> Mügathithi: Üteithio witũ umaga kwi Jehova;
+
+    </string>
+    <string name="people3"> Andũ:Üria wombire Igūrũ na thĩ.
+
+    </string>
+    <string name="pastor4"> Mügathithi:Nĩ ndakenire rīria manjirire;
+
+    </string>
+    <string name="people4"> Andũ:Nĩ tüthiĩ nyűmba-inī ya Jehova.
+
+    </string>
+    <string name="pastor5"> Mügathithi: Goocai Mwathani
+
+    </string>
+    <string name="people5"> Andũ:Riitwa rīa Mwathani rīrogoocwo.
+
+    </string>
+    <string name="topic4">HINDI YA KRISIMASI
+
+    </string>
+
+    <string name="pastor6"> Mügathithi:Munene wa Thayu nî mũciare;
+    </string>
+    <string name="people6"> Andũ:Ūkani tumũinamīrire!
+    </string>
+    <string name="topic5">HINDI YA KŪRIUKA GWA KRISTŮ
+    </string>
+    <string name="pastor7"> Mügathithi:Kristu nî mūriūku;
+    </string>
+    <string name="people7"> Andũ:Îī nī mūriūku kuna. Halleluya!
+    </string>
+    <string name="topic6"> HINDI YA GÜÛKA KWA ROHO MŨTHERU
+    </string>
+    <string name="pastor8"> Mügathithi:Roho Mutheru e haha;
+    </string>
+    <string name="people8"> Andũ:Niwe Kiiraniro kĩa Ngai.
+    </string>
+    <string name="pastor9"> Mügathithi:Rekei tūhoe.
+    </string>
+
+    <string name="object3">Andu maturie ndu kana maikare thi, mahoe na ihoya rimwe
+ria maya ma gwitheria
+    </string>
+
+    <string name="people10">Andü othe: Ngai Mwene-Hinya-wothe, we ngoro cia
+andū othe ni hingure kûrî we, namo
+meririria maitu mothe ni mamenyetwo niwe,
+na ningî gūtiri maundũ ma hitho ûtoi; theria
+meciria ma ngoro ciitu na ũndu wa gwîkira
+Roho Mutheru waku thiini wa cio; ni getha
+tūkwendage kūna na tugoocage Riitwa
+riaku riamure o ta ũria twagiriiruo ni gwîka:
+nî ûndû wa Kristu, Mwathani witũ. Ameni.
+
+    </string>
+    <string name="people11">Ngai Mwene-Hinya-wothe, wee urehaga
+utheri-ini maũndu maria makoragwo marī
+mahithe nduma-ini, ni ui hitho ciothe cia
+ngoro ciitu; tutherie na utweruhie na
+ũndu wa Roho waku, ni getha tũhote
+guthiagīra utheri-ini na tugocithagie ritwa
+riaku. Ni undu wa Jesu Kristu üria Ūtheri
+wa thi. Ameni.
+    </string>
+    <string name="object4">MAATHANI
+    </string>
+    <string name="object4.1">Andu maturie ndu kana maikare thi. Maathani maria ikimi
+mathomwo, kana mutaurire wamo kuuma Kirikaniro-ini
+Kiria Kieru, kana Maathani na njira nguhî
+
+    </string>
+    <string name="pastor10"> Mugathithi:Ta thikīrīriai maathani ma Ngai na
+mumeekire ngoro-ini cianyu.
+        Nii ni nii Mwathani Ngai waku uria wakurutire bururi wa Misiri, uume nyumba ya ukombo.
+        Ndũkanagie na ngai ingî tiga nii.
+
+    </string>
+    <string name="people12">Ameni;Mwathani tuiguire tha na utũhe wega waku
+tühote kũigua rĩathani riri.
+    </string>
+    <string name="pastor11">Mugathithi:Ndũkanethondekere mühianano mwacũhie
+kana mũhianano wa kindu o gîothe gî kuria
+igūrũ kana gî gũkũ thĩ kana ki maai-ini maria
+me mũhuro wa thĩ. Ndūkanacinamirire kana
+ũciíhoe ona kana uciitungatire
+
+    </string>
+<string name="pastor12">Mugathithi:Ndükanagwete Riitwa rĩa Mwathani Ngai waku na itherũ. Nĩ undũ Jehova ndakaaga gutua mũndũ mwîhia uria ugwetaga Riitwa rĩake na itherũ.</string>
+    <string name="pastor13">Mugathithi:Ririkanaga müthenya wa Mugwanja ũwamũrage. Rutaga wira mithenya îtandatu ũgeka maundũ maku mothe, no muthenya wa mūgwanja ni thabatu
+ya Mwathani Ngai waku. Müthenya ucio
+ndükanarute wira ona ûrîků, wee mwene kana
+mũrũguo kana mwarīguo, kana muruti wira gwaku, kana ng\'ombe yaku kana mūgeni uria wî gwaku; Ni gũkoruo Jehova ombire Iguru na
+thĩ, na iria, na kiria giothe kiri kuo mithenya
+itandatu, akîhurūka muthenya wa mugwanja;
+Nī undũ ucio Jehova akirathima muthenya wa
+mugwanja, na akiwamura.
+
+    </string>
+    <string name="pastor14"> Mugathithi: Tiia Thoguo na nyukwa, niguo matuku maku maingihe ma gütüüra bururi uria ühetwo nî Jehova Ngai waku </string>
+<string name="pastor15">
+    Mugathithi:Ndukanoragane;
+</string>
+    <string name="pastor16">
+    Mugathithi:Ndükanatharanie;
+</string>
+    <string name="pastor17">
+    Mugathithi:Ndükanaiye;
+</string>
+    <string name="pastor18">
+    Mugathithi:Ndükanaigîrîre mũndũ ũria ũngî kîgenyo;
+</string>
+    <string name="pastor19">Ndukanacumîkîre nyumba ya mũndũ ũria ũngi; Ndũkanacumîkire mûka wa mũndũ ũria ũngi, kana ndungata yake ya mũndũ mũrume kana ya mũndu wa nja, kana ndegwa yake, kana ndigiri yake kana o kindũ giake giothe.
+    </string>
+
+    <string name="people13">Andu: Ameni. Mwathani tuiguire tha na wandike
+maathani maya mothe ngoro-ini ciitu twakuhoya
+    </string>
+
+    <string name="object4.2"> MŨTAURIRE WA MAATHANI KUUMA KĪRĪKANĪROINI KIERU</string>
+    <string name="object4.2.1"> Gicunji gîkî no kigayanwo ni atongoria eerī, umwe athome Kuuma kirikaniro kiria gîkuru na ungi athome utauri kuuma kirikaniro kieru
+</string>
+    <string name="pastor20">5: Mugathithi: Mwathani witu Jesu Kristu nî oigire atîrî:
+angîkoruo ni mũnyendete, athîkagîrai
+maathani makwa. Kurathimwo nî aria
+maiguaga kiugo kĩa Ngai na magagĩathîkira.
+Iguai rîu ũria Ngai eerîte andũ aake:
+Nii ni nii Mwathani Ngai waku: Ndũkanagie na Ngai ingi tiga nii. Enda Mwathani Ngai
+waku na ngoro yaku yothe na muoyo waku
+wothe na gwiciria gwaku guothe na hinya
+waku wothe.
+    </string>
+    <string name="people14">
+        Andu: Ameni. Mwathani tuiguire tha na utuhe wega waku
+tühote kũigua rĩathani riri.
+    </string>
+    <string name="pastor21">Mugathithi: Ndũkanethondekere muhianano ona ûrîkũ.
+Ngai ni Roho nao aria mamũhoyaga ni mamũhoyage
+na roho, na uũma.</string>
+
+    <string name="pastor22">Mugathithi: Ndükananyararithie Riitwa rĩa Jehova Ngai
+waku. Muthathayagie na wîtigiri,na gîtio. </string>
+
+    <string name="pastor23"> Mugathithi: Ririkanaga Mũthenya wa Mwathani na
+ũwamurage. Kristu nî mūriuku; rũmbũyagia
+maundu maria mari igūru na útigage
+kūrũmbũiya marĩa marī thĩ. Ririkanaga
+muthenya ũria mwamure wa Mwathani.
+    </string>
+
+    <string name="pastor24"> Mugathithi:Tiĩa
+thoguo na nyukwa nîguo matuku maku
+maingîhe ma gütüüra bürüri üria ühetwo ni
+Jehova Ngai waku.
+Mündu angiikara ategûteithia andu ao, ona
+makîria andũ agwake mūciĩ, nî gũkana
+akanīte urutani urĩa wa ayam won Witikio
+na nî mũru gūkira mũndũ ütari wetîkia.
+slibnaw an wetîkia
+
+    </string>
+    <string name="pastor25"> Mugathithi:Ndukanoragane. Üria wothe urakaríire
+mũndũ ürĩa ungî nî wa gutuirwo ciira.
+
+    </string>
+
+    <string name="pastor26"> Mugathithi:Ndũkanatharanie. Mũndu o wothe uroraga ũria ũngi
+na njira ya kumwiririria nî arîkîtie gutharia nake ngoro-ini yake
+
+    </string>
+    <string name="pastor27"> Mugathithi: Ndũkanaiye.
+Mundu nî arute wira wake mwagiriru ni getha
+ahote gwiteithia na gûteithia aria mabataire.
+
+
+    </string>
+
+    <string name="pastor28">Mugathithi:Ndūkanatuîke mũira wa maheni. Mundu o wothe ni
+emenyerie kwaragia ũhoro wa ma.
+    </string>
+
+    <string name="pastor29">Mugathithi:Ndükanacumîkîre kindũ kĩa mũndũ ûrîĩa
+ũngĩ. Küheana nikuo kürehaga kīrathimo kūri
+kuheeo. Enda mũndû ûrîa ũngî ota uria wiendete.
+Tondu wendani nîguo uhingagia watho.
+    </string>
+
+    <string name="people15">Andu:Ameni. Mwathani tuiguire tha na wandike
+maathani maya mothe ngoro-ini ciitu
+twakuhoya. </string>
+
+    <string name="kananjira"> KANA MAATHANI NA NJIRA NGUHĨ</string>
+
+    <string name="pastor30">Mugathithi:Mwathani witũ Jesu Kristu ni oigire: Rĩathani
+Trĩa mbere na riria inene nî rîrî: "Igua wee
+Isiraeli; Mwathani Ngai witu no umwe. Enda
+Mwathani Ngai waku na ngoro yaku yothe na
+muoyo waku wothe na meciria maku mothe
+byna hinya waku wothe." Na ria keerî nî rîrî: Enda mũndu urĩa ungi ota üria wiendete wee
+mwene. Gûtiri riathani ringi inene kwi maya.
+
+    </string>
+
+    <string name="kyrie">KUGOOCWO, NA \'KYRIE ELEISON\' (MWATHANI
+TŨIGUÏRE THA)
+    </string>
+    <string name="ugooci"> Ügooci uyu kana ucio ungi urumiriire no uinwo kana
+uthoomwo.</string>
+    <string name="pastor31">Mugathithi:  Rekei türügame tugooce Mwathani.
+    </string>
+    <string name="ugoociinst"> Ügooci uyu wa  gucokaniria no uugwo kana uinwo andũ makihuuraga hi  </string>
+    <string name="pastor32">Mugathithi: : Kugoocwo kurogia kwi Ngai Ithe witu;
+    </string>
+    <string name="people16"> Andu: Kūgoocwo kurogia kūri Ngai Mũriũ.</string>
+
+    <string name="pastor33">Mugathithi: Kugoocwo kurogia kūri Ngai Roho
+Mutheru;
+    </string>
+    <string name="people17"> Andu: Hindi ciothe, othe atatu no umwe.</string>
+
+    <string name="pastor34">Mugathithi:Urogoocagwo micii-inî iitu;
+    </string>
+    <string name="people18"> Andu: Ũrogoocagwo ona Kanitha-ini. </string>
+
+
+    <string name="pastor35">Mugathithi:Urogoocagwo gūku gwitu Kenya;
+    </string>
+    <string name="people19"> Andu: Ürogoocagwo Afrika guothe.
+</string>
+
+    <string name="pastor36">Mugathithi: Ürogoocagwo thĩ yothe;
+
+    </string>
+    <string name="people20"> Andu:Ürogoocagwo ona kũu Igūru.  </string>
+
+    <string name="pastor37">Mugathithi:Kugoocwo kurogia kwi Ngai Ithe witu;
+
+    </string>
+
+    <string name="people21">Andu:Kūgoocwo kurogia kūrī Ngai Mūriu. </string>
+    <string name="pastor38">Mugathithi:Kugoocwo kurogia kūrī Ngai Roho
+Mutheru;
+
+    </string>
+    <string name="people22">Andu:Hindi ciothe, Ūtatü Mütheru no Umwe. </string>
+    <string name="pastor39">Mugathithi:Halleluya
+
+    </string>
+    <string name="people23">Andu:Ameni. </string>
+
+    <string name="kanaugooci"> KANA ÜGOOCI ÜYÜ;</string>
+
+    <string name="people24">
+        Andü othe: Kugoocwo kurogia kwi Ngai O igūru, nakuo
+thĩ kugie na thayu, andũ nao maiguane. Ni tugũkugooca,
+ningî nî tugūkugatha, na ni tugügütüriria ndu, ni
+tugügūkumia, ni tugũkwira ni wega ni undu wa mwago
+waku mũnene, We, Mwathani Ngai, Muthamaki wa
+igūru, Ngai Ithe Mwene-hinya-wothe. Mwathani witũ,
+Jesu Kristu, mwana uria waciariruo wa mũmwe, we
+Mwathani Ngai, Gatūrüme ka Ngai, We weheragia mehia
+ma Andũ othe; Tuiguire tha. We weheragia mehia ma
+Andů othe, itikira
+ihoya ritu. We üikaraga guoko-ini kwa
+ūrio kwa Ngai Ithe witu, tuiguire tha. Ni
+undu we, nowe, Mutheru: We, nowe,
+Mwathani witu wiki: We, Jesu Kristu,
+Mūno Mūno, Unene-ini wa Ngai Ithe witù.
+hamwe na Robo Mutheru, wi Igürü
+Ameni.
+
+    </string>
+
+    <string name="object7"> Andu maikare o marüngü. Thaburi ya muthenya ithomwo</string>
+    <string name="object7.1"> KANA HINDI YA KWINYEREKIA</string>
+    <string name="object8">  Hindi ya kwinyerekia, ithaithana riri: Mwathani
+tuiguire tha nirio riagiriire kühüthirwo ithenya ria
+ugooci.</string>
+
+
+    <string name="pastor40">Mugathithi:Mwathani tuiguire tha.
+
+    </string>
+    <string name="people25">Andu:Mwathani tuiguire tha. </string>
+
+    <string name="pastor41">Mugathithi:Kristu tuiguire tha;
+
+    </string>
+    <string name="people26">Andu:Kristu tuiguire tha; </string>
+
+    <string name="pastor42">Mugathithi:Mwathani tuiguire tha;
+
+    </string>
+    <string name="people27">Andu:Mwathani tuiguire tha; </string>
+
+
+    <string name="object9"> Ni hindi njagiriru ya kuhoya Ihoya ria muthenya
+</string>
+
+    <string name="pastor43">Mugathithi: Nitükühoya na Ihoya rĩa mũthenya </string>
+    <string name="object9.1"> ÜTUNGATA WA KIUGO KIA NGAI</string>
+    <string name="object9.2">Kirikaniro Gikürü  </string>
+
+    <string name="muthomi1"> Muthomi: Ithomo ria Kirikaniro kiria Gikūru riumite
+ibuku-ini ria…, mũrango wa…, tūkiambīriria  guthoma mühari wa.. </string>
+
+    <string name="object9.3">Thutha wa güthoma;
+Müthomi oige: </string>
+
+    <string name="muthomi2">Muthomi: Gîkî nîkio kiugo kĩa Ngai;
+
+    </string>
+    <string name="people28"> Andū macokie Halleluya, Mwathani arogoocwo.</string>
+
+    <string name="object10">  Ithomo kuuma Kirikaniro kieru, (marua-ini): </string>
+
+    <string name="muthomi3"> Muthomi: Ithomo ria keerī riumîte marua-ini ma …
+murango wa…tukiambîrîria guthoma mühari wa…</string>
+
+    <string name="object10.1">Thutha wa guthoma; Muthomi oige:
+    </string>
+    <string name="object10.2">Andu no mambe makire hanini. Thutha rwimbo ruinwo.</string>
+
+    <string name="object11">Uhoro uria Mwega-uthomwo ni Mugathithi andu marüngii.  </string>
+    <string name="pastor44"> Mugathithi: Rekei türügame tüthome Ühoro üria Mwega
+bawa uhonokio witu o ta üria wandîkîtwo wa
+ni Mutheru…, mũrango wa…, tukiambīrīria
+guthoma mũhari wa....</string>
+
+    <string name="object11.2"> Thutha wa Uhoro üria Mwega;</string>
+
+    <string name="pastor45"> Mugathithi: Uyu niguo Uhoro Mwega wa Kristu; </string>
+    <string name="people29"> Andu: Halleluya, Kristu Mũhonokia witū arogoocwo.</string>
+
+    <string name="object12"> Witikio wa Nikea (Mugathithi eranire witikio ucio na
+ciugo ici):</string>
+
+    <string name="pastor46"> Mugathithi: Rekei twîturanire na Akristiano a thĩ yothe,
+ne hamwe na aria mathiire mbere iitu, twîkîre witikio
+witu hinya, na ciugo cia Witikio wa Nikea</string>
+
+    <string name="nikea"> Ninjitīkītie Ngai ümwe Ithe witü Mwene-HinyaWothe,
+Mūümbi wa Igūrũ na thi, Na wa indo ciothe
+cionekaga na iria itonekaga:
+Na ngetīkia Mwathani ũmwe Jesũ Kristo,
+Mürù wa Ngai ũria waciarirūo niwe wa
+mümwe,
+waciarirūo nī Ithe mbere va mnindi na mindi,
+Ngai umīte Ngai, Utheri uumīte Ütheri,
+Ngai wa ma uumīte Ngai wa ma,
+Üria waciarirūo, na ti kũümbwo ombirūo, ningi
+mūthemba wake na wa Ithe nī mūthemba
+ümwe kūna,
+Nacio indo ciothe ciombirūo nĩwe:
+Üria waikūrūkire akiuma igūrū nĩ ūndū witu
+andū a thĩ, nĩ getha tūhonokio:
+Akīgīa na mwirī, agīciarūo nī Mũirītu wetagwo
+Mariamu, na ũndū wa hinya wa Roho Mutheru,
+Agītuika mūndū,
+Na ningi akīambwo mūti igūrū nĩ ũndu witu
+hĩndī ya Pontio Pilato.
+Akīnyarirwo, agīkua, agīthikwo,
+Mūthenya wa gatatū akīriūka o ta uria
+kwandīkītwo Maandīko-ini,
+Akihaica Igũrű, Na rĩu nīaikaire kwa
+Nake nīagacoka na ũnene acirithie aria me
+muoyo o na arĩa makuïte:
+Naguo îthamaki wake ndūgathira.
+Na ningĩ nĩnjřtīkĩtie Roho Mūtheru, Mwathani
+witũ, na mūheani muoyo, uumĩte kūri Ithe witü
+na kūrī Mũriű
+Na ũrĩa hamwe na Ithe witū na Mũriu
+ūturagīrio ndu na akagocwo,
+Na ūrīa waaragia na tũnua twa anabii
+Na ngetikia Kanitha ūmwe ürīa wa thĩ yothe, na
+nĩ űmwe na ũrīa wa Atūmwo.
+Na ngetīkīra atī nĩ kūrī Übatithio o ümwe wa kweheria mehia,
+Ningī nĩnjetereire Kūriūka gwa akuũ, na muoyo uria wa hindi îrĩa īgoka. Ameni.
+
+
+    </string>
+
+    <string name="object13"> 13 Imenyithia </string>
+
+    <string name="object14">14 Rwimbo</string>
+    <string name="object15"> 15 Mahujio
+</string>
+    <string name="object15.1">Rwimbo wa mühothi. </string>
+
+    <string name="pastor47">Mügathithi: Indo ciothe ciumaga kūri we Mwathani.
+</string>
+    <string name="people30">Andu:Na ici twarehe ni imwe cia iria űtüheete.
+ </string>
+
+    <string name="object16">16 Mahoya ma mathaithana </string>
+    <string name="object16.1">Nyimbo no ciinwo na njira ya mahoya. Ningĩ andü ngũrani
+no manyitanire thĩini wa gütongoria mahoya kana litania
+îno:
+ </string>
+    <string name="pastor48">Mügathithi:Nĩ tũhoe:
+ </string>
+
+    <string name="object16.2">Andù maikare thỉ kana maturie ndu </string>
+    <string name="object16.3">Litania ino:
+ </string>
+
+
+    <string name="pastor49">Mügathithi:Mabicobu na atongoria othe a kanitha
+marogia na üügī na maaragie na mügambo
+ümwe; </string>
+    <string name="people31"> Andū: Ameni, Mwathani tūiguire tha. </string>
+
+    <string name="pastor50">Mügathithi:Atongoria a bürūri witů maroathanaga na
+üthingu;</string>
+    <string name="pastor51">Mügathithi:Kĩhooto kīrotuika nīkīo ngo iitü na ügitiri
+witū
+ </string>
+    <string name="pastor52">Mügathithi:  Būrūri witũ ürogīa na thayū, andū nao marathimwo
+</string>
+    <string name="pastor53"> Mügathithi:Ndūũru cia Mbūri na ng\'ombe iroingiha, O
+na thamaki ciingīhe maria-inī maitũ na njūui-inī;
+</string>
+    <string name="pastor54">Mügathithi:Migũnda itū îrogīa na ūnoru na magetha
+maingīhe;
+ </string>
+    <string name="pastor55"> Mügathithi:Mawĩra maitū ma wonjoria namo marotherema;</string>
+    <string name="pastor56">Mügathithi: Ithuĩ hamwe na arīa mangītūmena, tūrotuika
+a gūcaragia thayū;
+ </string>
+    <string name="pastor57">Mügathithi: Wendo wa Ngai Ithe witũ ũrohutia aria mena ihooru na makuirīirūo na arīa marathīnīka </string>
+
+    <string name="pastor58">Mügathithi:Mwathani aroingata mogwati mothe mehere
+njira-inỉ ciitū: </string>
+    <string name="people32">Andu: Halleluya, Mwathani mūigua tha e
+hamwe na ithui.
+ </string>
+    <string name="object16.4">KANA, MAHOYA MAYA MA MATHAITHANA </string>
+
+    <string name="pastor59">Mügathithi:Rekei tūhoere Kanitha.
+Ngai Mwene-Hinya-wothe, Ithe witů wa
+igūrů, rathima na ůtongorie abicobu aitũ,
+atungatiri, aruti othe a wira wa kanitha, na
+andū aaku othe aria makwiīhokete. He ūūgi
+Archbicobu witů… na mùmbicobu… ni
+getha matūtongoragie na ūrūmwe wa Roho
+waku Mūtheru. Tũma ati aria othe
+moimbūraga Riitwa riaku itheru, makiriririe
+küheana ngumo yaku na ûndù wa gutungata
+andů aria ungi, kwenduga thủ cino, ningī
+marutithanagie wira hamwe nĩ ündù wa
+gütheremia Üthamaki waku gūkū ona künda
+kùngī. Wee Ngai wa ûtugi, igun ihoya riitů;
+ </string>
+    <string name="people33"> Andū:
+Mwathani twagüthaitha ûtüigue.
+</string>
+
+    <string name="pastor60">Mügathithi:  Rekei tühoere Bürūri witü:
+Ithe witû wa tha nyingī, gitira na ütongorie
+President witū…, na arīa othe mahetwo
+wathani nīwe, nĩ getha mahūthagīre hinya
+ürĩa ũmaheete nĩ ündū wa gūtūūria thayû,
+wendani na ũrūmwe. Tümaga ati atongoria
+aitů matūtongoragie matari na guoya kana
+kwendereria mündū, nĩ getha kīhooto
+githererage ta rūûï rũtahūaga, naguo ūthingu.
+ta gīthima kīa maaï matathiraga.
+    Wee Ngai wa ŭtugi, igua ihoya riitü;</string>
+    <string name="pastor61"> Mügathithi: Rekei tühoere mabataro ma thĩ yothe.
+Awa műtwendi, Mürūguo Jesü Kristo
+aakūrire akīnenehaga, akīühīgaga, akīendagwo nī Ngai o na andũ; Ota ûrĩa arehire Ühoro Mwega kũrĩ arīa athĩni, ithuĩ na ithui
+nītwakūrehere arīa othe mathinikīte nĩ ündū
+wa ng\'aragu, ūkĩa, mĩrimū, na arīa othe
+ahinyīrīrie na marahūthữrwo ūüru. Üthamaki
+waku nī ūūke, na wendo waku ühinge na
+ündū wa gütūma mikarīre yao īgarūrüke na
+yagīrīre; na ithui o taguo űtwarahüre tüữkire
+tükahunjie Ühoro Mwega, nĩ getha andũ
+othe, arata ona agendi, mahonokio.
+Wee Ngai wa ūtugi, igua ihoya riitü;</string>
+
+    <string name="pastor62">Mügathithi: Rekei tűcokerie Ngai ngatho nĩ űndũ wa
+mioyo ya arĩa makuite marī thĩinī wa Kristü.
+Ithe witũ mwega na műtugi, twĩ na gīkeno ngoro-inī
+tugigūcokeria ngatho nĩ ündũ wa andű aitũ a tene
+aria maakuire makwthokete. Twakūhoya atī, ni úndu
+wa ûrīa tüthiûrürükirio nĩ itu inene ria aira arīa atheru,
+ütühotithagie kügeragīra makinya-inī mao, na müicoini tügacemania na tűtũranic nao tene na tene mücii
+ücio wa gīkeno wa igūrů.
+Itikira küigua mahoya ma ciana ciaku wee Ithe witü.
+ </string>
+
+    <string name="people34">Andü:Nĩ ũndũ wa Jesũ Kristű mūtūcirīĩriri.
+Ameni.
+ </string>
+
+
+    <string name="object17"> 17 MAHOYA MA KWĨRIRA
+</string>
+    <string name="object17.1"> Andü maturītie ndu kana maikaire thĩ:</string>
+
+
+    <string name="pastor63">Mügathithi: Ta thikĩrīriai ciugo cia ümirīru na cia
+kūhorerania iria Mūhonokia witū Kristo
+cerīte arīa othe mamūrūmagirira.
+Mündū o wothe angīenda kūnūmirira ni
+CCrcge We mwene, akuuage mūtharaba wake
+hingo ciothe anūmagirire. Nĩ ùndū ri, mündü
+o wothc ũngienda kühonokia muoyo wake
+nỉ akoorwo nīguo, no ũria ūùragwo ni
+muoyo wake ni ündū wakwa ni
+akaühonokia. (uka 923 24)
+Ukai küri nii inyuothe mùnogeio ni gukuua
+mirigo miritù na ni ngümühurükra
+(Muthayo ll 28)
+Nĩ ùndũ ủcio ri, inyui aria othe mwirıraga
+mehia manyu, na mwendete anduù aria angi,
+na mùtanyiîte güthii na mithiire mierü
+mükirùmnagirira njira ya Jesu Kristů,
+kuhiririai mwi na witikio, mwamükire
+Thakaramendi ino theru ya kümwikira
+hinya.
+Rekei tuumbürire Ngai Mwene-Hinyawothe mehra maitů twinyihitie müno </string>
+
+    <string name="people35"> 18 Andũ othe: Ngai Mwene-hinya-wothe, Mūümbi wa
+indo ciothe, watüümbire na mühianire waku
+wa magegania, îndi nītwīthūkangītie na
+tükogomia mühianire waku, na ūndū wa  kwagarara wendo waku, na küiguithia
+andū arĩa angi ũũru. Ntũhītītie, na
+tūkaaga gwika ūría kwagiriire. Nĩtwerira
+na ma na nītūűkūhera kũna mehia maitü
+Tűtherie na ūtuohere na ūndū wa thakame
+iria yaitirwo ya Mūrűguo Jesū. Umba
+ngoro njerű thĩinĩ witū na ūtūtongoragie na Roho waku Műtheru ũria  műhorerania. Twahoya ūguo nĩ ũndũ wa
+Jesū Kristū Mwathaní witū. Ameni.
+
+</string>
+    <string name="pastor64"> Mügathithi: Ngai Mwene-hinya-wothe, o we ürĩa wendo waku mũrũmu ũneneheteo ta üria igūrũ
+küraihanirīirie na thĩ, aromwehereria mehia
+manyu ota ūrīa irathiro na ithüiro
+iraihanīrĩirie, aromwikīra hinya na
+amúrūgamie wega üthamaki-inī wake o
+nginya mūthenya wa mūthia. Nĩ ũndủ wa
+Jesū Kristū Mithinjĩrí Ngai ürĩa münene na
+wa tha. Ameni.
+</string>
+    <string name="pastor65"> Ngai Mwene-hinya-wothe, Uria Ithe witů
+wa lgürũ, na We ürĩa weranĩire, ni ündū
+watha ciake nyingī, atī andū arĩa othe
+mariheraga mehia mao na ma, na aria merekera Kūri We, mamwihokete na ma, ni
+megükirīrūo mehia mao. Aromüiguira tha;
+aromükirira na amwehererie mehia manyu
+mothe; aromūmiriria na aromühe hinya wa
+maūndū mothe mega; na aromükinyia muoyo-ini üria ūtagathira; ni ündũ wa Jesūũ
+Kristū, Mwathani witū. Ameni.
+</string>
+
+
+    <string name="people36"> 20 Andü othe: Nĩ wega Ithe witū nī gūtūrekera; rīu
+twoka mnetha-inī yaku ta ciana ciaku twĩ
+na ūũma tũtegūthangania, tūtekwīīhoka
+ithui-ene tiga o Kiugo gīaku; Nĩ
+tühūütīire na tükany otera üthingu waku:
+twahoya ütühūnie ngoro na ũndū wa
+mwiri na thakame ya Mürūguo  Jesū
+Kristū ürĩa mūthingu. Ameni.
+</string>
+
+
+    <string name="object18"> ÜTUNGATA WA THAKARAMENDI</string>
+    <string name="object18.1">21 Andimarigame mageithanie na Ngeithi cia Thayu
+makiinaga </string>
+
+
+    <string name="pastor66"> Muthigathithi: Rekei tūgeithanie ngeithi cia thayū omūndū
+na üria ingi
+</string>
+    <string name="pastor67"> Migathithi: Thayū wa Mwathani ūroikara na inyui hindi
+Ciothe</string>
+    <string name="people37">Andü: Uroikara naweo taguo. </string>
+
+    <string name="object19">22 Rwimbo rimwo Metha ya Mwathani ikiharagīrio.
+Uria ukuheana Giathi, hamwe na aria maramūteithĩrĩiria
+methambe moko
+ </string>
+    <string name="object19.1"> Ihoya Ria Gücokia Ngatho.
+ </string>
+    <string name="object19.2"> Andu maikare o marungii.
+ </string>
+
+    <string name="pastor68"> Tüikare o türüngii, ni ūndū wa ngatho na
+Kirinkano.
+</string>
+    <string name="pastor69"> Mügathithi:
+Ithe witü ari na ithui ? </string>
+    <string name="people38"> Andu: Ithe witü ari na ithui</string>
+
+    <string name="pastor70"> Mugathithi: I Kristū e hamwe na ithuữ?</string>
+    <string name="people39">Andu: Ii, e hamwe na ithui  </string>
+    <string name="pastor71"> Mugathithi: I Roho Mütheru e haha?
+ </string>
+    <string name="people40">Andü:ii, e haha.
+
+ </string>
+    <string name="pastor72">Mugathithi:Uyũ niwe Ngai witü!
+ </string>
+    <string name="people41">Andü:Ithe na Müriŭ na Roho Mütheru.
+ </string>
+    <string name="pastor73">Mugathithi:Türi andi aake. </string>
+    <string name="people42">Andü:Nĩ tūkūüritwo.
+
+ </string>
+    <string name="pastor74">Mugathithi:Roriai ngoro cianyu na igūrū: </string>
+    <string name="people43">Andü:Nītügūciroria na igūrü kwi Mwathani.
+ </string>
+    <string name="pastor75">Mugathithi:Nitücokeriei Mwathani Ngai witū ngatho.
+
+ </string>
+    <string name="people44">Andü:Nikwagiriire tūmūcokerie ngatho natümūgooce.
+
+ </string>
+    <string name="pastor76">Mugathithi:
+
+Mügathithi: Nĩkwagiriire ona ni gīkeno giitü gūgūcokeria  ngatho na gükūgooca wee Ithe witü wĩ hinya
+müno: Ngai mūtüüra muoyo, wee ūtügirite
+igürü ria thĩ yothe, Mũumbi, Mūgai,   Mūhonokia na Mūheani. Kuuma kwĩ mũndi
+waarī mũrūũri ũgiīthondekera andű aku:
+Andũ matuitwo ngombo ukinmonera
+mũmatongoria; rũrĩri rwagagīte, ükĩrūthurira
+mūthamaki; kirīndi kīarī kĩremi ūgīgītūmĩra
+anabii. Na rĩu matukū-iní maya ma
+        kũrigīrīria nĩ ūtūtümiire Mūrūguo, ūrĩa ūtarit
+tawe kūna, arehe ūthamaki waku,
+aguũranĩrie wendo waku; agīkua, akīriūka.
+na rĩu nĩ gūthamaka athamakaga, agīgūthondekagīra andū aku maagire wega. Na undu
+wake nĩ ūtūitiriire Roho waku Mutheru, agatūiyūragirīra na ūtheri na muoyo.
+
+</string>
+    <string name="people45">Andü:Nĩ ũndũ űcio ithuĩ hamnwe na Ảraika, na
+Araika arīa anene, na gīkundi gīothe kĩa
+Igūrű, nĩ tūkūgooca, na tūgakumia
+Rīïtwa rīaku rīega ma; tūgīkūgoocaga
+hingo ciothe, tūkiugaga,
+Mūtheru, Mūtheru, Mūtheru, Mwathani
+Ngai mũnene wa ita, Igũrũ na thĩ nĩ
+kúiyűire ūnene waku; Urogoocagwo, We,
+Mwathani wĩ Igũrũ műno. Ameni.
+
+ </string>
+    <string name="object19.3">Ngaatho cia mwanya no ciugîrwo haha kūringana na
+mahinda ma mwaka wa kanitha.
+ </string>
+
+
+    <string name="object20">24 NJAHİRĪRA CIA IGONGONA RĪA NGWATANĪRO
+THERU
+ </string>
+    <string name="object20.1">Ciugo ici nĩ cia gwkirwo thini wa "Ihoya Rĩa Gücokia
+Ngaatho ", mbere ya kuuga, "Tondū ūcio ithuĩ hamwe na
+araika.
+ </string>
+    <string name="object20.2">HĨNDİ YA GŨỮKA (Advent) </string>
+    <string name="object20.2.1"> Na rĩu nītwagűcokeria ngaatho na twakūgooca ni
+ündū nĩwookire ta mūndũ riria mūthenya wa
+ühonokio witū wakinyire, na nĩ ūgacooka ringī na
+ühoti na ūtoria, gūcirithia kīrindī na kũnina thĩ yothe.
+Nĩ ũndũ ücio
+ </string>
+    <string name="object20.2.1.1"> Na rĩu nītwagūcokeria ngaatho ũndu niwaharīirie
+njira na ündū wa mahunjio r ma münabii waku Johana
+mübatithania, ürĩa waniriire akiuga, "Onej!
+Gatürũme ka Ngai karĩa gegūkuua mehia ma
+kirindī. Nĩ ũndū ūcio…
+ </string>
+
+    <string name="krismasi"> KRISMASI
+</string>
+    <string name="krismasi1.1">Na rĩu nītwagūcokeria ngaatho, ni ũndū wa kūheana
+Mūrūguo wa mumwe aciarwo ihinda ta riri, üña
+watuikire mūndū na ủndu wa hinya wa Roho Mūtheru.
+agiciarwo nī muiritu gathirange wetagwo Mariamu.
+Thĩini wa Mūrūguo gũtiari karooro kana ihia, na
+thĩinī wake nītūtheragio kuuma kūrĩ wihia wothe. Ni
+ündū ūcio.
+ </string>
+    <string name="krismasi1.11">Na rĩu nītwagūcokeria ngaatho ni ūndũ wa ücio ÜhorO
+gütuika mũndū; utheri mwerũ nĩ ūūkīte thĩ, nao aria
+maatüraga nduma-ini, na rungu rwa kīruru gĩa gikuů
+nĩ monete ūtheri mũnene. Nĩ ũndũ ūcio.
+ </string>
+
+
+    <string name="reborn">MỮTHENYA WA KŪRIŪKA </string>
+    <string name="reborn1.1">Na rĩu nĩtwakūgaatha ni ūndũ wa Mũrüguo Jesü
+küriūka ena riri mũnene, Gatūrūme karia karutirwo
+igongona nĩ ündũ witü, na nīko keheretie mehia ma
+kirindi. Na ündū wa gīkuû gīake ni aanangīte gikuü,
+na ũndū wa kūriüka gwake nĩ atūcokeirie muoyo wa
+tene na tene. Nĩ ündū ūcio.
+ </string>
+    <string name="reborn1.11">Na rĩu ni twagūcokeria ngaatho, nĩ ündũ ni
+wamūriūkirie ena riri münene kuuma kūri aria akuü:
+na ündū wake ni ūtūheete kīrigiriro gīa kūriüka, ni
+gūkorwo mĩoyo iitù ndīkoora no ni kūgarūrwo
+ikagarürwo; riria miiri iitü ya kūbutha igathikwo tiri-ini,
+ni küingīra tūkaingira gikaro-ini giitů gīa tene na
+tene tūtùũranie nake. Nĩ ũndũ ūcio… </string>
+
+
+    <string name="kuhaica">MÜTHENYA WA KÜHAICA IGÜRÜ
+ </string>
+    <string name="kuhaica1.1">Na riu ni twagūcokeria ngaatho, nĩ ũndũ wa gutiithia Mũrùguo, na ũkamûhe rĩtwa rīrīa rīkirīte marītwa
+        maria mangī mothe. nĩ getha atỉ thĩini Wa rītwa ra
+Jesu, maru mothe maturagio na rũrimi O ruothe
+rumbūrage atỉ Jesũ Kristo nīwe Mwathani. Nĩ ũndu
+ūcio..
+ </string>
+    <string name="kuhaica1.11">Na rîu ni twagūcokeria ngaatho, nĩ ủndū thutha wa
+küriūka gwake, Mũrūguo mwende nĩ ambatire igÜrt
+kūrĩa rîu atūthondekagīra gīikaro, na ni
+agatwamūkira tūtüranie nake riri-nī ücio wa tene no
+tene. Nĩ ũndũ ũcio.
+ </string>
+
+    <string name="pentecost">GÜÜKA KWA ROHO MỮTHERU (PENTECOST) </string>
+    <string name="pentecost1.1"> Na rîu nĩ twagūcokeria ngaatho, nĩ ũndũ wa ūrīa
+Roho Mütheru okire kūri atūmwo, akīmaiyūria hinva
+na ũhoti wa kwaria na thiomi ingī, na ũmĩriru wa
+kūhunja ūhoro mwega ndūrīri-inī ciothe: na ŭndũ wa
+kūhunjia kwao nīkīo twamenyanire nawe. Nĩ ũndū
+ūcio
+</string>
+    <string name="pentecost1.11"> Na rīu nītwagūcokeria ngaatho, tondū Roho Mutheru
+waku nĩ atūmire maandiko matheru mnaandikwo na ni
+atūtongoragia maūndū-inī ma ühoro wa ma;
+agatüheaga ūhoti wa kūühunjia Uhoro Mwega ndūririinī na gūgũtungata tūrī athinjiri Ngai a mūthamaki.
+Nĩ ũndũ ũcio..
+</string>
+
+
+
+    <string name="utatu"> MÜTHENYA WA KIUMIA WA ÜTATÜ</string>
+    <string name="utatu1.1">Na rĩu nitwagūcokeria ngaatho, nĩ ũndũ nĩ
+watūguūrīirie riri waku, o ūcio wĩna Mūrūguo Jesŭ
+Kristü na Roho Mūtheru: Othe Atatū maiganaine
+kūna thĩini wa riri na ūhoti, matirī mūhaka thĩinī wa
+üthaka wao, makoragwo mari Mwathani Ümwe.
+Ngai Umwe, wa kwīhokagwo na kūinamagīririrwo
+tene na tene. Nĩ ündũ ŭcio. </string>
+
+
+    <string name="atheru">MŪTHENYA WA ATHERU OTHE </string>
+    <string name="atheru1.1"> Na rīu nī twagūcokeria ngaatho, nĩ ũndữ wa kirigiriro
+kĩrīa ūtwītīire na ũndũ wa Mũrūguo Jesū Kristū, aí
+twarūnirira witīkio wa atheru aku othe,. nĩ tūgūteng\'e\'era tũmĩrīirie kihitahītano-inī kĩria kĩ mbere
+iitū, tūcūthirīirie Jesũ mwambīriria na mũrikia wa
+witīkio witũ. Nĩ ũndũ ūcio....
+
+</string>
+
+
+    <string name="bless">KWAMŪRA KÜRATHIMA KANITHANA
+ </string>
+    <string name="bless1.1">Na rĩu nītwagūcokeria ngaatho, nĩ ũndũ wa nyũmba
+Tno ya kūhoyagirwo, irĩa yamūritwo nĩ ündũ wa
+ugooci waku, haria andū aaku, nīo hekarū ya Roho
+Mūtheru, marīcemanagia gūgūthathaiya. Nĩ ũndũ
+ūcio… </string>
+
+
+    <string name="leaders">KWAMŪRA ATUNGATÍRI NA ABICOBU
+ </string>
+    <string name="leaders1.1">Na rĩu nītwagücokeria ngaatho, nĩ ũndũ thĩinĩ wa
+ütungata wa kanitha waku nĩ wamūraga amwe
+matuike arīithi a ngoro, na ūkaamūra abicobu ni
+ündū wa kũmenyerera na gūtongoria ng\'ondu ciaku
+na kwanĩrīra ngumo njega ya ūhonokio, na ningi
+kūheana thakaramendi cia kĩrīkanīro kierū.
+ </string>
+
+
+    <string name="people46"> Andu othe:
+Nĩ ũndữ űcio ithuĩ hamwe na Araika, na
+Araika arīa anene, na gīkundi gīothe kīa
+Igūrű, nĩ tūkūgooca, na tũgakumia
+Riītwa rīaku rīega ma; tügīkūügoocaga
+hingo ciothe, tūkiugaga,
+</string>
+    <string name="people47">Andü othe: Mūtheru, Mūtheru, Mūtheru, Mwathani
+Ngai mũnene wa ita, Igūrũ na thĩ nĩ
+küiyūire ünene waku; Urogoocagwo,We,
+Mwathani wĩ Igūrũ mũno. Ameni </string>
+
+
+    <string name="giat"> (Njĩra îngī ya kwamnũra Giathĩ kĩa Mwathani, nĩ kūhūthira
+rwimbo rükoni giathĩ, ta Utukiü Uria Anyitagwo thinĩ wa
+Nyimbo Cia Küinira Ngai (NCKN), na ũndū wa gwīkīra
+ciko cia Giathi Kia Mwathani, thĩinĩ wa ciugo cia rwimbo).</string>
+    <string name="object25.1"> 25 Andu maikare o marũngi. </string>
+
+    <string name="pastor78"> Mügathithi: Ngai Mwene-Hinya-Wothe na mwene indo
+ciothe, nī tūgūcokia ngaatho nĩ ūndũ wa üria
+waheanire Mūrūguo ooke i thĩ akue műthara-ba-inī nĩ ũndũ witũ andũ i matarī kindű tiga
+kirīa ūtūheete. Tūitīrĩrie Roho waku tügie na
+warahūku, tūkĩmūririkana na njira iria atwathire,
+na ũndũ wa iheo ici cia ũmbi waku
+Ütukū ûria akunyanīirwo nī oire mūgate na
+agīcokia ngaatho (Mugathithi oe na arathi.
+mũgate); akīwenyūranga na akīnengere
+arutwo aake akimera, "Kai mürie, ũyũ nĩ (mwiri
+wakwa ürīa ŭheanītwo nĩ ündũ wanyu. Ikagai ûŭ nĩ getha mündirikanage'
+</string>
+    <string name="people48">Andü:
+Ameni, Mwirī wake nĩ waheanirwo nĩ
+ündū witū.
+    </string>
+
+
+    <string name="pastor79">Mügathithi: O ūguo taguo thutha wa kūria irio cia hwaiinī nĩ oire gīkombe na agīcokia ngaatho
+(Mūgathithi oe gikombe na arathime):
+akīmahe akimeera: nyuanīrai gikī inyuothe,
+ino nĩyo thakame yakwa ya kirikanīro kĩerů
+irña iititwo nĩ ũndū wanyu na ni ũndũ wa andū
+aingī nĩ ündū wa kuoherwo mehia. Ikagai ūŭ
+rirīa rīothe mūrīmīnyuaga, niguo
+mũndirikanage.
+ </string>
+    <string name="people49">  Kristū nĩ akuire,
+Kristo nī mūriūku,
+Kristū nīagoka ringi.
+
+
+    </string>
+    <string name="pastor80"> Türi aariũ na aarī a Ithe witũ na ũndũ wa
+thakame yake; </string>
+    <string name="people50">  Ni tükuite hamwe nake,
+Nĩ tūkariūkanīra nake,
+Nĩ tūgatũrania nake.
+
+
+    </string>
+    <string name="pastor81">Nĩ ũndũ ūcio Ithe witũ wa igūrũ tũthikīririe
+tügīkūngùira kĩririkano gīki twĩ na gikeno,
+tügietagirira gūika kwa Mūhonokia witi
+Jesu Kristū. Aakuire ithenya riitů na akirba
+thiirī wothe wa mehia ma thĩ yothe,
+akiirutira rita o rīmwe rikinyaniru kūna, Nĩ
+wetikirire rîiruta rĩake na ũndũ wa  kümüriükia kuuma gikuû-ini na ükimühe
+gitio kinene gia gütúma aikare guoko-in
+gwaku kwa urio küu igürü. </string>
+    <string name="people51">  Ameni, Jesű nĩ Mwathani.
+    </string>
+    <string name="pastor82"> Riri ni igongona ria ütooria. </string>
+    <string name="people52">  Gatürűme üria watükuirire nīwe Müthamaki. Halleluya.
+    </string>
+    <string name="object27"> 26 Andü maturie ndu kana maikare thĩ.</string>
+    <string name="pastor83">   Ota üria Mühonokia witü atürutire ni tühoe
+tümĩrīirie tuuge: </string>
+    <string name="people53">
+        Ithe witű wĩ igűrű,
+Rītwa rĩaku nĩ rīaműrüo,
+Uthamaki waku üűke, o üria wendete Wee ni wikagwo
+gūkű thĩ
+Ota ürīa wikagwo küu igürũ,
+Tühe űmūthĩ irio ciitű cia gütüigana,
+Na ütuohere mehia maitü,
+Ota ürīa ithui tuohagīra aria matwīhagia,
+na ndūgatūtware magerio-ini,
+No kűhonokia ūtühonokagie üüru-ini,
+NI ũndũ üthamaki nĩ waku,
+Ona hinya, ona kügoocwo,
+Tene na tene, Ameni.
+
+
+    </string>
+    <string name="pastor84"> 27 Mügathithi: Kuhiririai můri na witlkio, mwamükire
+ </string>
+    <string name="people54">Andü:  Kristü niwe mwene igongona na ithui türi
+ageni ake.
+    </string>
+    <string name="pastor85"> Mügathithi:  Kristů e muoyo tene na tene.
+    </string>
+    <string name="people55"> Andü:  Twi muoyo ni ündü e muoyo.
+    </string>
+    <string name="object28">Kwaya iongorie kiina ciügo cia AGNUS DEI ta üu </string>
+
+    <string name="pastor86">Gatürūme ka Ngai wee weheragia mehia ma kirindi,
+ </string>
+    <string name="people56">Tüiguire tha
+    </string>
+    <string name="people57">Tühe thayũ waku.
+    </string>
+
+    <string name="object28.1"> Mügathithi oe mũgate na ũmwe wa ateithirīria aake oe
+gikombe, na moige iñ (marorete andủ):
+</string>
+    <string name="pastor87">8 Mügathithi: Mwiri wa Mwathani witū Jesū Kristũ ũria
+waheanirūo nĩ ũndū waku, ũroikaria mwiri
+waku na ngoro yaku nayo nīguo ukona
+muoyo ūtagathira. Ka ūrĩe, nīguo ūririkanage atī Jesũ Kristū akuire nī ũndū
+waku, na ũmūriage ngoro-ini yaku na
+witīkio wĩ na ngaatho
+ </string>
+
+    <string name="pastor88">Müteithĩrîria: Thakame ya Mwathani witū Jesu Kristŭ, ĩrĩa
+yaitirūo nĩ ūndũ waku, îroikaria mwirī waku
+na ngoro yaku nayo nīguo ükona muoyo ūtagathira. Nyua îno, nīguo ũririkanage atī
+thakame ya Kristū nĩyaitirūo nĩ ũndũ waku
+na ūgīage na ngaatho. </string>
+
+    <string name="object29"> 29 Riria Mūgate na ndibei iraheanwo, mũruti wa igongona na
+ateithîrîria aake no moigage ciügo ici makīhe o mũndu:</string>
+
+    <string name="pastor89">Mügathithi: Mwirĩ wa Kristũ ügūikaragie nginya ükona
+muoyo wa tene na tene </string>
+
+    <string name="pastor90">Müteithiriria: Thakame ya Kristü igūikaragie nginya
+ükona muoyo wa tene na tene. </string>
+
+    <string name="object29.1">Nake mündũ tũria ükwamükira oige, Ameni; acoke arie kana
+anyue.
+ </string>
+    <string name="object29.2">Mügate kana ndibei ingīthira no cioywo ingī metha-inī
+theru itekūbatara kühoerwo ringī, tiga no gũkorirwo ati
+icio ndathime nĩ ciathira biü. Hindi ya kwamükira no
+küinagwo nyîmbo iringaine na Giathi
+ </string>
+
+
+    <string name="object30">
+THUTHA WA GĨATHĨ
+
+    </string>
+    <string name="object30.1">Andù no magie na ihinda rĩa gükira hanini, macoke mahoe
+na ihoya rimwe ria maya marümiriire:
+
+
+    </string>
+
+    <string name="people59">Andü othe:
+Ngai Ithe, Mwene-Hinya-wothe, na wa
+tene na tene, nītwarikia güikara magūrűini maku, twarīithio na kiugo gīaku na twariüra metha-ini yaku. Amūkīra ngaatho
+ciitū na ūgooci ni ūndũ wa gūtwamükīra
+nyūmba-inī yaku. Tütūme rīu na ūtürathime, tūgagūtūūrire, na tügatuīke aira aaku na ũndũ wa hinya wa Roho waku
+Mūtheru. Thiüni wa rĩtwa rīa Jesũ
+Kristū, ürīa
+irigithathi rĩa kūriūka kwa arīa akuű. Ameni.
+
+
+    </string>
+
+    <string name="people58">
+Ngai wee wĩ Igūrũ mũno, nītwagūcokeria
+ngaatho nĩ gūtwamūkīra, gūtūruta na
+gūtūhūnia. Tūtiagīrīire ona atīa kūheo
+ona kĩ nĩwe, o tiga nĩ ūndū wa tha ciaku
+nyingī, ni ūtūhete indo ciothe thīinī wa
+Mũrűguo Jesū Kristū.
+Nĩ tūkwendete na nĩ tũkwīneana kūri we
+nĩ getha tūtũmwo wira-inī waku. Twah0-
+ya ūtūhe kīrathimo gīaku, rĩu na hĩndi
+ciothe. Ameni.
+    </string>
+
+    <string name="people60">
+31 Andu othe: Ngai wa aciari aitū a tene, o wee njiarůa
+na njiarűa ithiraga igagūtiga o ho;
+twakűgatha nĩ kũmenya atī thĩini waku
+tűgűtūūra tũrī agitīre tene na tene, na ati,
+kūrī ūhűthũ wa mahinda maitū marīa
+mahītūku ni tügarũrītwo, na
+tükanyitithanio ringi na ūndū wa giīko
+kĩa Mūrūguo mwende Jesū Kristũ, gĩa
+gūtūkūüra, ūria twaririkana na ũndū wa
+thakaramendi theru ya mügate na ndibei.
+Tüteithie gūthiiaga hingo ciothe tūrī
+ngwataniro-inī ya arīa atheru,
+tükiumbūraga witikio witũ ūhoro-inī wa
+kuoherwo kwa mehia na kūriūka kwa
+mwirī. Tũtüme riu, na hinya wa Roho
+waku Mütheru, nīguo tūtūūre
+tügűtungatagira na ũndū wa riri na
+ügooci wa Rīītwa rīaku. Ameni.
+
+    </string>
+
+
+    <string name="object32"> 32 Mahoya mava Mugathithi no ahithire mahinda mamwe na mamwe
+    </string>
+
+    <string name="pastor91">  Tütongorie, Mwathani, maũndū-inī maitū mothe
+ütugi waku mwega, o na ūtūtwarage hĩndi ciothe na
+üteithio waku, nĩ getha mawira-inī maitű mothe
+marīa tūkwambiriria, na marīa twikaga, tükarikia
+thiĩnĩ waku, tūtümage atī Rïtwa rĩaku rīamūũre
+rigocagwo nĩ ündũ wamo, na thutha wa ūüguo, tondi
+wa tha ciaku, tūone mūoyo ütagathira, tondū wa Jess
+Kristo, Mwathani witů. Ameni.</string>
+
+    <string name="pastor92">Ngai Mwene-Hinya-wothe, twagūthaitha witīkire
+gütüma atī mohoro marīa twaigua ūmūthĩ na matů
+maitü ma mwiri, na ündū wa wega waku, magwatani
+ngoro-inī ciitū thĩinĩ, nĩ getha maciarage maūndū
+marĩa mega mīthiĩre-inī iitū, na Riitwa rīaku
+rīīkirirüo na rīgocwo nĩ ündūũ waguo; tondū wa Jesü
+Kristü, Mwathani witů. Ameni. </string>
+    <string name="pastor93"> Ngai Mwene-Hinya-wothe, We weranîire atỉ nĩ ükai-
+gua mahoya ma andū aria makühoyaga na ũndũ wa
+Riitwa ria Mürūguo; Tūgūgüthaitha ütege matū ma.
+ku ūtūigue ithuĩ tūgükühoya na tügūgūthaitha hindi
+ino; na wĩtikīre gūtūma ati o ta ürĩa üngienda gūtūhe
+tūteithagio mabata-inī maitů, na ningī nĩgetha
+twenenagie ūnene waku; tondũ wa Jesũ Kristū
+Mwathani witũ. Ameni.</string>
+
+    <string name="blessing"> KĪRATHIMO</string>
+    <string name="object33">33 Andü marūgamite, na makiuga icunji cia mbere ithatŭ,
+marorie moko mūtharaba-ini üria wĩ kĩgongona-inĩ igūrü,
+na gicunji kĩa mũthia marorie moko mao na igũrũ.
+
+    </string>
+    <string name="pastor94">Mügathithi: Mathina maitū mothe, </string>
+    <string name="people61">
+Andū: Twamaikia mūtharaba-inī wa Kristũ.
+    </string>
+    <string name="pastor97"> Mügathithi: Moritũ maitũ mothe,</string>
+    <string name="pastor96">Mügathithi: Mawira mothe ma Caitani, </string>
+
+    <string name="pastor98"> Mügathithi:
+Ciỉrĩgīrīro ciitū ciothe,</string>
+
+    <string name="people62">
+Andü: Tūciigīte hari Kristū ūcio wariūkire.
+    </string>
+
+    <string name="object33.1">
+Andu maikare marũngii nĩ ùndũ wa kĩrathimo na gütùmwo.
+    </string>
+
+
+    <string name="pastor99"> Mügathithi:
+Kristů Riūa rĩa ūthingu aromūtherera na eherie
+nduma yothe njīra-inī yanyu.
+        Nakīo kĩrathimo kĩa Ngai Ithe witũ Mwene-
+Hinya-wothe, na kia Mũriũ na kīa Roho
+Mūtheru, kiroikara na inyuĩ na gītũữranie
+inyuī hĩndī ciothe. Ameni.
+    </string>
+
+    <string name="object33.11"> HAMWE NA /KANA</string>
+    <string name="pastor100">Mügathithi: Nĩ tũhoe.
+Thayū wa Ngai ũrîa ütangimenyeka ūrña ūtariī ũroi-
+karia ngoro cianyu na meciria manyu namo, nĩ getha
+mütūũre mũmenyete Ngai ona mũmwendete, o nake
+Mũrũ wake Jesū Kristū Mwathani witũ,. Nakīo
+kīrathimo kĩa Ngai Ithe witũ Mwene-Hinya-Wothe, na
+kĩa Mũriũ na kĩa Roho Mütheru, kīroikarania na inyui
+na gītūranie na inyuĩ hĩndī ciothe. Ameni. </string>
+    <string name="object35"> 35 KŨRĪKĪRĪRIA NA GŨTỮMWO</string>
+    <string name="object35.1"> Mūgathithi no oige ümwe wa maya:</string>
+    <string name="pastor101">Mügathithi: Thiĩi na thayũ mūgatungatīre Mwathani na
+mũmwende makīria. </string>
+    <string name="people63">Andū:Thiini wa Riītwa rīa Kristū. Ameni. </string>
+    <string name="pastor102">Mügathithi:Gīthii gwĩ kĩrīndi, mūgīkenaga thĩinī wa hinya
+wa Roho Mūtheru. </string>
+    <string name="people64">Andū:Ni ngaatho kūrī Ngai. </string>
+    <string name="pastor103">Mügathithi:  Jesū akiuga, "Ota ūrĩa Awa andūmire, noguo
+ona niĩ ndamūtūma". Umagarai na thayŭ. </string>
+    <string name="people65">Andū: Ni ngaatho kūrī Ngai. </string>
+    <string name="object36">36 Rwimbo rwa kũrikia. </string>
+</resources>

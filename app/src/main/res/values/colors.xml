@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#69383f</color>
+    <color name="sec">#9ba2ba</color>
+    <color name="aw">#d6b8aa</color>
+    <color name="asa">#917a7c</color>
+    <color name="fs">#2e252b</color>
+    <color name="asd">#907768</color>
+    <color name="asxc">#9e3442</color>
+    <color name="aswe">#441211</color>
+
+
+</resources>
